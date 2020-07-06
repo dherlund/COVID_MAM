@@ -1,281 +1,281 @@
 fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad Sales,Total CCC,Geo Area,%Retail Closed in County Updated 5/26,Division,Region,Population
-36061,New York City,New York,,Y,,,,5,15,624,,,Northeast,,18804000
-06037,Los Angeles,California,,Y,,,,2,1,59,,,West,,10039107
-17031,Cook,Illinois,,Y,942,366,201,140,38,3572,Chicago Metro,70%,Central,Central Care,5150233
+36061,New York City,New York,,Y,,,,,15,672,,,Northeast,,18804000
+06037,Los Angeles,California,,Y,,,,2,1,93,,,West,,10039107
+17031,Cook,Illinois,,Y,965,356,21,146,38,3577,Chicago Metro,65%,Central,Central Care,5150233
 48195,Hansford,Texas,,,,,,,,,,,Headquarters,,5399
 04013,Maricopa,Arizona,,Y,,,,3,,9,,,West,,4485414
 06073,San Diego,California,,Y,,,,,,23,,,West,,3338330
-06059,Orange,California,,,,,,,,51,,,West,,3175692
-12086,Miami-Dade,Florida,,Y,,,,,4,5,Miami Metro,100%,Central,CD SS/ Div Off,2716940
+06059,Orange,California,,,,,,,,5,,,West,,3175692
+12086,Miami-Dade,Florida,,Y,388,,82,5,4,656,Miami Metro,100%,Central,CD SS/ Div Off,2716940
 48107,Crosby,Texas,,,,,,,,,,,Headquarters,,5737
 06065,Riverside,California,,,,,,,,,,,,,2470546
 32001,Churchill,Nevada,,,,,,,,,,,Northeast,,24909
-53029,Island,Washington,,,13,,,,,14,,,West,Washington,85141
+53029,Island,Washington,,,14,,,,,14,,,West,Washington,85141
 06071,San Bernardino,California,,,,,,,,,,,,,2180085
 48429,Stephens,Texas,,,,,,,,,,,West,,9366
 48025,Bee,Texas,,,,,,,,,,,Headquarters,,32565
-12011,Broward,Florida,,Y,724,1277,147,210,33,3384,,63%,Central,CD SS/ Div Off,1952778
-06085,Santa Clara,California,,Y,192,11,55,28,7,648,,0%,Central,Cust Sales & Reten,1927852
-26163,Wayne,Michigan,,,98,16,23,8,,312,Detroit Metro,80%,Central,Heartland,1749343
-06001,Alameda,California,,,262,15,61,49,5,918,N Cent CA,0%,West,California,1671329
-25017,Middlesex,Massachusetts,,Y,270,277,60,33,5,1190,Boston Metro,,Northeast,GBR,1611699
+12011,Broward,Florida,,Y,345,1221,67,161,33,2739,,75%,Central,CD SS/ Div Off,1952778
+06085,Santa Clara,California,,Y,196,,65,29,7,663,,0%,Central,Cust Sales & Reten,1927852
+26163,Wayne,Michigan,,,177,17,38,8,,415,Detroit Metro,60%,Central,Heartland,1749343
+06001,Alameda,California,,,248,,56,48,5,889,N Cent CA,0%,West,California,1671329
+25017,Middlesex,Massachusetts,,Y,236,167,6,33,5,115,Boston Metro,,Northeast,GBR,1611699
 42097,Northumberland,Pennsylvania,,,,,,,,,,,Headquarters,,90843
-06067,Sacramento,California,,Y,266,16,43,33,19,582,,13%,West,California,1552058
-12099,Palm Beach,Florida,,,341,108,65,22,19,1038,,75%,Central,CD SS/ Div Off,1496770
+06067,Sacramento,California,,Y,268,,43,34,19,582,,13%,West,California,1552058
+12099,Palm Beach,Florida,,,347,13,65,22,19,139,,75%,Central,CD SS/ Div Off,1496770
 36089,St. Lawrence,New York,,,,,,,,,,,Northeast,,107740
-12057,Hillsborough,Florida,,Y,,2,,1,,11,,,Central,Central Care,1471968
-12095,Orange,Florida,,,,,,,,2,,100%,Central,CD SS/ Div Off,1393452
+12057,Hillsborough,Florida,,Y,,2,,1,,9,,,Central,Central Care,1471968
+12095,Orange,Florida,,,46,1,3,,,75,,100%,Central,CD SS/ Div Off,1393452
 36057,Montgomery,New York,,,,,,,,,,,Northeast,,49221
 39045,Fairfield,Ohio,,,,,,,,,,,Northeast,,157574
 48449,Titus,Texas,,,,,,,,,,,West,,32750
-27053,Hennepin,Minnesota,,,177,417,60,50,15,1080,MN Area,20%,West,Twin Cities,1265843
-26125,Oakland,Michigan,,,296,1,28,33,25,735,Detroit Metro,100%,Central,CD SS/ Div Off,1257584
+27053,Hennepin,Minnesota,,,242,415,61,51,15,1154,MN Area,0%,West,Twin Cities,1265843
+26125,Oakland,Michigan,,,227,,3,34,25,645,Detroit Metro,50%,Central,CD SS/ Div Off,1257584
 39031,Coshocton,Ohio,,,,,,,,,,,Northeast,,36600
 41071,Yamhill,Oregon,,,11,,2,,1,16,,100%,West,Portland,107100
 49029,Morgan,Utah,,,,,,,,,,,West,,12124
-06013,Contra Costa,California,,,197,4,35,11,5,437,N Cent CA,0%,West,WD SS/ Div Off,1153526
+06013,Contra Costa,California,,,2,,43,11,5,437,N Cent CA,0%,West,WD SS/ Div Off,1153526
 51595,Emporia city,Virginia,,,,,,,,,,,Headquarters,,5346
 37179,Union,North Carolina,,,,,,,,,,,Northeast,,239859
 37117,Martin,North Carolina,,,,,,,,,,,Northeast,,22440
-13121,Fulton,Georgia,,,,,,,,,ATL Metro,0%,Central,Big South,1063937
-24031,Montgomery,Maryland,,,141,203,18,28,14,545,DC Metro,0%,Northeast,Beltway,1050688
-04019,Pima,Arizona,,,86,227,17,2,,714,,50%,West,Mountain West,1047279
+13121,Fulton,Georgia,,,86,5,36,17,,783,ATL Metro,0%,Central,Big South,1063937
+24031,Montgomery,Maryland,,,141,26,19,29,14,542,DC Metro,0%,Northeast,Beltway,1050688
+04019,Pima,Arizona,,,87,237,17,2,,71,,0%,West,Mountain West,1047279
 48081,Coke,Texas,,,,,,,,,,,Headquarters,,3387
-06019,Fresno,California,,Y,107,2,29,19,12,237,,0%,West,California,999101
+06019,Fresno,California,,Y,19,,29,19,12,238,,0%,West,California,999101
 29187,St. Francois,Missouri,,Y,,,,,,,,,Northeast,,67215
 12103,Pinellas,Florida,,Y,,1,,,,4,,,Central,Central Care,974996
 15003,Honolulu,Hawaii,,Y,,,,,,,,,Central,,974563
 36115,Washington,New York,,,,,,,,,,,Northeast,,61204
-18097,Marion,Indiana,,Y,,,,,,,,,Central,CD SS/ Div Off,964582
-12031,Duval,Florida,,Y,29,,,,,31,North Floria,0%,Central,Florida,957755
+18097,Marion,Indiana,,Y,176,75,,36,,429,,,Central,CD SS/ Div Off,964582
+12031,Duval,Florida,,Y,26,55,45,39,,1124,North Floria,100%,Central,Florida,957755
 55077,Marquette,Wisconsin,,,,,,,,,,,Headquarters,,15574
-09001,Fairfield,Connecticut,,Y,39,,6,3,4,68,South CT,0%,Northeast,NED Engnr,943332
+09001,Fairfield,Connecticut,,Y,4,,6,3,4,7,South CT,0%,Northeast,NED Engnr,943332
 47153,Sequatchie,Tennessee,,,,,,,,,,,Headquarters,,15026
-13135,Gwinnett,Georgia,,,94,,,,,114,ATL Metro,0%,Central,Big South,936250
-34001,Atlantic,New Jersey,,,187,,12,,5,251,South Jersey,100%,Northeast,Freedom,263670
-17043,DuPage,Illinois,,,18,277,27,4,6,686,Chicago Metro,50%,Central,Chicago,922921
+13135,Gwinnett,Georgia,,,94,,15,2,,142,ATL Metro,0%,Central,Big South,936250
+34001,Atlantic,New Jersey,,,188,,13,,5,251,South Jersey,100%,Northeast,Freedom,263670
+17043,DuPage,Illinois,,,15,286,28,4,6,686,Chicago Metro,0%,Central,Chicago,922921
 36027,Dutchess,New York,,,,,,1,,3,,,Northeast,NED Engnr,294218
-24033,Prince George's,Maryland,,,157,,19,2,,260,DC Metro,67%,Northeast,Beltway,909327
+24033,Prince George's,Maryland,,,157,,18,2,,26,DC Metro,33%,Northeast,Beltway,909327
 53049,Pacific,Washington,,,,,,,,,,,Headquarters,,22471
 06029,Kern,California,,,,,,,,1,,,Headquarters,,900202
-09003,Hartford,Connecticut,,,168,300,18,25,12,879,,0%,Northeast,NED B. Serv,891720
+09003,Hartford,Connecticut,,,162,36,18,26,12,87,,0%,Northeast,NED B. Serv,891720
 48117,Deaf Smith,Texas,,,,,,,,,,,Headquarters,,18546
-06075,San Francisco,California,,Y,111,5,33,27,6,276,N Cent CA,0%,West,California,881549
-26099,Macomb,Michigan,,,234,285,55,,9,829,,67%,Central,Heartland,873972
+06075,San Francisco,California,,Y,111,,22,26,6,272,N Cent CA,0%,West,California,881549
+26099,Macomb,Michigan,,,234,282,42,,9,811,,33%,Central,Heartland,873972
 48211,Hemphill,Texas,,,,,,,,,,,West,,3819
-09009,New Haven,Connecticut,,,88,,14,7,5,161,South CT,0%,Northeast,NED Engnr,854757
+09009,New Haven,Connecticut,,,77,,22,7,5,155,South CT,0%,Northeast,NED Engnr,854757
 06111,Ventura,California,,,,,,,,1,,,West,,846006
 48133,Eastland,Texas,,,,,,,,,,,Headquarters,,18360
 42087,Mifflin,Pennsylvania,,,,,,,,,,,Headquarters,,46138
-25027,Worcester,Massachusetts,,,42,,5,,,56,,,Northeast,GBR,830622
-24005,Baltimore,Maryland,,,110,,8,,9,177,Baltimore Metro2,0%,Northeast,Beltway,827370
-34021,Mercer,New Jersey,,,52,,10,1,,88,Central Jersey,,Northeast,Freedom,367430
-53057,Skagit,Washington,,,56,7,12,1,3,102,,100%,West,Washington,129205
+25027,Worcester,Massachusetts,,,43,,5,,,55,,,Northeast,GBR,830622
+24005,Baltimore,Maryland,,,347,479,21,26,9,1248,Baltimore Metro2,0%,Northeast,Beltway,827370
+34021,Mercer,New Jersey,,,87,,1,1,,132,Central Jersey,,Northeast,Freedom,367430
+53057,Skagit,Washington,,,19,,2,,3,27,,100%,West,Washington,129205
 39057,Greene,Ohio,,,,1,,,,1,,,Central,Central Care,168937
-41047,Marion,Oregon,,,49,,16,3,3,95,,100%,West,Portland,347818
+41047,Marion,Oregon,,,49,,17,3,3,94,,0%,West,Portland,347818
 48149,Fayette,Texas,,,,,,,,,,,Headquarters,,25346
-25025,Suffolk,Massachusetts,,,101,,8,20,,193,Boston Metro,0%,Northeast,GBR,803907
-34011,Cumberland,New Jersey,,,,,12,,,14,,0%,Northeast,Freedom,149527
+25025,Suffolk,Massachusetts,,,11,,8,2,,212,Boston Metro,0%,Northeast,GBR,803907
+34011,Cumberland,New Jersey,,,,,15,,,15,,0%,Northeast,Freedom,149527
 40105,Nowata,Oklahoma,,,,,,,,,,,Northeast,,10076
-25009,Essex,Massachusetts,,,134,,33,5,8,240,,,Northeast,GBR,789034
-12071,Lee,Florida,,,123,278,38,24,8,626,West FL,0%,Central,Florida,770577
-21111,Jefferson,Kentucky,,,,,,,,,,,Central,,766757
-06081,San Mateo,California,,Y,112,8,20,7,,185,,0%,West,California,766573
-06077,San Joaquin,California,,,80,9,17,6,6,171,,0%,West,California,762148
-13067,Cobb,Georgia,,,82,3,,2,4,236,ATL Metro,33%,Central,Big South,760141
-13089,DeKalb,Georgia,,,231,16,26,89,,1199,ATL Metro,0%,Central,Big South,759297
+25009,Essex,Massachusetts,,,134,,33,5,8,235,,,Northeast,GBR,789034
+12071,Lee,Florida,,,125,29,37,25,8,627,West FL,100%,Central,Florida,770577
+21111,Jefferson,Kentucky,,,,,,,,3,,,Central,,766757
+06081,San Mateo,California,,Y,114,,24,7,,187,,0%,West,California,766573
+06077,San Joaquin,California,,,98,,25,6,6,199,,0%,West,California,762148
+13067,Cobb,Georgia,,,94,3,34,213,4,164,ATL Metro,33%,Central,Big South,760141
+13089,DeKalb,Georgia,,,233,4,21,1,,65,ATL Metro,0%,Central,Big South,759297
 36053,Madison,New York,,,,,,,,,,,Northeast,,70941
-08031,Denver,Colorado,,,104,,14,,,142,,33%,West,Mountain West,727211
-12105,Polk,Florida,,,6,2,,,,9,,100%,Central,CD SS/ Div Off,724777
-08041,El Paso,Colorado,,,129,389,43,9,8,806,,0%,West,Mountain West,720403
-25021,Norfolk,Massachusetts,,,23,,41,7,19,192,,0%,Northeast,GBR,706775
-11001,District of Columbia,District of Columbia,,Y,111,,11,14,,301,DC Metro,100%,Northeast,Beltway,705749
-29095,Jackson,Missouri,,,60,12,12,2,,124,,0%,Central,CD SS/ Div Off,703011
-17097,Lake,Illinois,,,139,1,23,1,,242,,100%,Central,CD SS/ Div Off,696535
+08031,Denver,Colorado,,,115,,24,1,,716,,0%,West,Mountain West,727211
+12105,Polk,Florida,,,6,,2,,,1,,100%,Central,CD SS/ Div Off,724777
+08041,El Paso,Colorado,,,12,43,48,1,8,768,,0%,West,Mountain West,720403
+25021,Norfolk,Massachusetts,,,23,,31,8,19,116,,0%,Northeast,GBR,706775
+11001,District of Columbia,District of Columbia,,Y,112,,16,14,,352,DC Metro,67%,Northeast,Beltway,705749
+29095,Jackson,Missouri,,,77,,12,2,,138,,0%,Central,CD SS/ Div Off,703011
+17097,Lake,Illinois,,,146,,24,1,,242,,100%,Central,CD SS/ Div Off,696535
 47033,Crockett,Tennessee,,,,,,,,,,,Headquarters,,14230
-17197,Will,Illinois,,,125,,,,,148,Chicago Metro,,Central,CD SS/ Div Off,690743
+17197,Will,Illinois,,,126,,,,,15,Chicago Metro,,Central,CD SS/ Div Off,690743
 34041,Warren,New Jersey,,,,,,,,,,,Northeast,,105267
-34015,Gloucester,New Jersey,,,,,,,,30,,,Northeast,Freedom,291636
+34015,Gloucester,New Jersey,,,,,,,,29,,,Northeast,Freedom,291636
 01073,Jefferson,Alabama,,,,,,,,,,,,,658573
-26081,Kent,Michigan,,,116,,27,14,9,238,,100%,Central,Heartland,656955
-08005,Arapahoe,Colorado,,Y,116,376,28,671,11,5086,"Adams, Araphoe CO",14%,West,Mountain West,656590
+26081,Kent,Michigan,,,12,,27,14,9,239,,0%,Central,Heartland,656955
+08005,Arapahoe,Colorado,,Y,12,81,72,685,11,5958,"Adams, Araphoe CO",0%,West,Mountain West,656590
 40139,Texas,Oklahoma,,,,,,,,,,,Northeast,,19983
 44003,Kent,Rhode Island,,,,,,,,,,,Headquarters,,164292
 49045,Tooele,Utah,,,,,,,,,,,West,,72259
 42013,Blair,Pennsylvania,,,,,,,3,3,,,Northeast,,121829
-34023,Middlesex,New Jersey,,,,,19,,1,29,,50%,Northeast,Freedom,825062
+34023,Middlesex,New Jersey,,,,,18,,1,25,,0%,Northeast,Freedom,825062
 48335,Mitchell,Texas,,,,,,,,,,,West,,8545
 34027,Morris,New Jersey,,,,,,,,3,,,Northeast,,491845
-20091,Johnson,Kansas,,,15,3,9,,,39,,100%,West,Twin Cities,602401
-12009,Brevard,Florida,,Y,45,4,,,,70,,,Central,,601942
+20091,Johnson,Kansas,,,13,,9,1,,39,,0%,West,Twin Cities,602401
+12009,Brevard,Florida,,Y,,,,,,2,,,Central,,601942
 41063,Wallowa,Oregon,,,,,,,,,,,Northeast,,7208
-24510,Baltimore city,Maryland,,,,,,,,,,0%,Northeast,Beltway,593490
+24510,Baltimore city,Maryland,,,,,11,19,,157,,0%,Northeast,Beltway,593490
 48487,Wilbarger,Texas,,,,,,,,,,,Headquarters,,12769
-08059,Jefferson,Colorado,,,,,,5,,49,,,West,West Care,582881
-24003,Anne Arundel,Maryland,Yes,,322,474,49,48,5,1437,DC Metro,33%,Northeast,Beltway,579234
+08059,Jefferson,Colorado,,,,,,5,,51,,,West,West Care,582881
+24003,Anne Arundel,Maryland,Yes,,87,,25,3,5,228,DC Metro,33%,Northeast,Beltway,579234
 31053,Dodge,Nebraska,,,,,,,,1,,,West,,36565
 42041,Cumberland,Pennsylvania,,,44,,,,9,87,S. Central PA,,Northeast,Keystone,253370
-25005,Bristol,Massachusetts,,,176,,30,15,,338,,0%,Northeast,GBR,565217
-10003,New Castle,Delaware,,,108,492,21,5,7,961,"N MD, N DE",0%,Northeast,Freedom,558753
+25005,Bristol,Massachusetts,,,177,,31,15,,338,,0%,Northeast,GBR,565217
+10003,New Castle,Delaware,,,18,498,23,5,7,976,"N MD, N DE",0%,Northeast,Freedom,558753
 34037,Sussex,New Jersey,,,,,,,,1,,,Northeast,,140488
-12101,Pasco,Florida,,,,,,,,,,,Central,,553947
-12127,Volusia,Florida,,,,,,,,,,,Headquarters,,553284
-06099,Stanislaus,California,,,58,10,16,4,,106,,0%,West,California,550660
-27123,Ramsey,Minnesota,,,67,9,24,,,130,MN Area,0%,West,Twin Cities,550321
+12101,Pasco,Florida,,,,,,,,1,,,Central,,553947
+12127,Volusia,Florida,,,,,,,,1,,,Headquarters,,553284
+06099,Stanislaus,California,,,59,,16,4,,16,,0%,West,California,550660
+27123,Ramsey,Minnesota,,,67,,24,,,13,MN Area,0%,West,Twin Cities,550321
 55021,Columbia,Wisconsin,,,,,,,,,,,Headquarters,,57532
 42067,Juniata,Pennsylvania,,,,,,,,,,,Northeast,,24763
 39149,Shelby,Ohio,,,,,,,,,,,Northeast,,48590
 37077,Granville,North Carolina,,,,,,,,,,,Northeast,,60443
-17089,Kane,Illinois,,,47,,14,,,74,,100%,Central,Chicago,532403
+17089,Kane,Illinois,,,47,,14,,,74,,0%,Central,Chicago,532403
 39109,Miami,Ohio,,,,,,,,,,,Northeast,,106987
-42025,Carbon,Pennsylvania,,,,,,,,,,,Northeast,,64182
+42025,Carbon,Pennsylvania,,,1,117,,,,175,,,Northeast,,64182
 45041,Florence,South Carolina,,,,,,,,,,,Headquarters,,138293
 53059,Skamania,Washington,,,,,,,,,,,Headquarters,,12083
-25023,Plymouth,Massachusetts,,,82,,,,,112,,,Northeast,GBR,521202
-08001,Adams,Colorado,,Y,214,448,96,2,12,1842,"Adams, Araphoe CO",20%,West,WD SS/ Div Off,517421
+25023,Plymouth,Massachusetts,,,65,,1,,,16,,,Northeast,GBR,521202
+08001,Adams,Colorado,,Y,24,,47,,12,389,"Adams, Araphoe CO",0%,West,WD SS/ Div Off,517421
 20173,Sedgwick,Kansas,,,,,,,,,,,Central,,516042
-34005,Burlington,New Jersey,,,87,204,16,5,7,1524,South Jersey,,Northeast,Freedom,445349
-34029,Ocean,New Jersey,,,76,,23,1,4,126,South Jersey,0%,Northeast,Freedom,607186
-06097,Sonoma,California,,,78,2,12,7,,131,,0%,West,California,494336
-34025,Monmouth,New Jersey,,,85,,9,9,9,149,Central Jersey,0%,Northeast,Freedom,618795
+34005,Burlington,New Jersey,,,53,26,16,5,7,1473,South Jersey,,Northeast,Freedom,445349
+34029,Ocean,New Jersey,,,18,,23,2,4,169,South Jersey,0%,Northeast,Freedom,607186
+06097,Sonoma,California,,,8,,21,8,,147,,0%,West,California,494336
+34025,Monmouth,New Jersey,,,52,,9,8,9,1,Central Jersey,0%,Northeast,Freedom,618795
 19153,Polk,Iowa,,,,,,,,,,,Central,,490161
 53007,Chelan,Washington,,,,,,,,,,,Headquarters,,77200
-18089,Lake,Indiana,,,100,5,14,4,6,175,,33%,Central,CD SS/ Div Off,485493
+18089,Lake,Indiana,,,13,5,15,4,6,174,,0%,Central,CD SS/ Div Off,485493
 16001,Ada,Idaho,,,,,,1,,1,,,Headquarters,,481587
 12117,Seminole,Florida,,,,,,,,,,,Central,,471826
 32023,Nye,Nevada,,,,,,,,,,,Northeast,,46523
 51147,Prince Edward,Virginia,,,,,,,,,,,Headquarters,,22802
 47089,Jefferson,Tennessee,,,,,,,,,,,Headquarters,,54495
-25013,Hampden,Massachusetts,,,93,,27,17,6,202,,0%,Northeast,WNE,466372
-06107,Tulare,California,,,78,,13,,,107,,0%,West,California,466195
-04021,Pinal,Arizona,,,,,,,,,,,Headquarters,,462789
+25013,Hampden,Massachusetts,,,94,,27,17,6,21,,0%,Northeast,WNE,466372
+06107,Tulare,California,,,78,,13,1,,17,,0%,West,California,466195
+04021,Pinal,Arizona,,,,,,,,1,,,Headquarters,,462789
 36063,Niagara,New York,,,,,,,,,,,Northeast,,209281
 51183,Sussex,Virginia,,,,,,,,,,,Headquarters,,11159
-42129,Westmoreland,Pennsylvania,,,68,,9,1,,98,,0%,Northeast,Keystone,348899
-06095,Solano,California,,,,,13,,,17,N Cent CA,0%,West,California,447643
-06083,Santa Barbara,California,,,,,6,1,,8,,0%,West,California,446499
-34003,Bergen,New Jersey,,Y,42,,,,,58,N. Jersey,,Northeast,Freedom,932202
+42129,Westmoreland,Pennsylvania,,,41,,1,1,,98,,100%,Northeast,Keystone,348899
+06095,Solano,California,,,3,,23,,,32,N Cent CA,0%,West,California,447643
+06083,Santa Barbara,California,,,29,,6,3,,48,,0%,West,California,446499
+34003,Bergen,New Jersey,,Y,43,,,,,42,N. Jersey,,Northeast,Freedom,932202
 22033,East Baton Rouge,Louisiana,,,,,,,,,,,Central,,440059
-06053,Monterey,California,,,48,,18,1,3,85,,0%,West,California,434061
-12115,Sarasota,Florida,,,58,,13,,,90,,0%,Central,Florida,433742
-22051,Jefferson,Louisiana,,,,,,,,1,,,Central,,432493
-27037,Dakota,Minnesota,,,,,10,,,13,,0%,West,Twin Cities,429021
+06053,Monterey,California,,,49,,19,1,3,84,,0%,West,California,434061
+12115,Sarasota,Florida,,,11,,15,7,,18,,100%,Central,Florida,433742
+22051,Jefferson,Louisiana,,,,,,,,,,,Central,,432493
+27037,Dakota,Minnesota,,,,,11,,,13,,0%,West,Twin Cities,429021
 39091,Logan,Ohio,,,,,,,,,,,Northeast,,45672
 48057,Calhoun,Texas,,,,,,,,,,,Headquarters,,21290
-42007,Beaver,Pennsylvania,,,24,,,,,33,Pitts Metro,0%,Northeast,Keystone,163929
+42007,Beaver,Pennsylvania,,,25,,,,,33,Pitts Metro,0%,Northeast,Keystone,163929
 41001,Baker,Oregon,,,,,,,,,,,Northeast,,16124
-33009,Grafton,New Hampshire,,,1,,3,1,1,7,,100%,Northeast,NED Engnr,89886
+33009,Grafton,New Hampshire,,,1,,4,1,1,7,,100%,Northeast,NED Engnr,89886
 45075,Orangeburg,South Carolina,,,,,,,,,,,Headquarters,,86175
 51105,Lee,Virginia,,,,,,,,,,,Headquarters,,23423
-01097,Mobile,Alabama,,,62,1,13,3,,102,,0%,Central,Big South,413210
-45015,Berkeley,South Carolina,,,,,9,,,14,,,Central,CD SS/ Div Off,227907
-26049,Genesee,Michigan,,,87,,14,,,122,,100%,Central,CD SS/ Div Off,405813
+01097,Mobile,Alabama,,,64,1,13,3,,12,,0%,Central,Big South,413210
+45015,Berkeley,South Carolina,,,,144,,,,168,,,Central,CD SS/ Div Off,227907
+26049,Genesee,Michigan,,,87,,14,,,123,,0%,Central,CD SS/ Div Off,405813
 55129,Washburn,Wisconsin,,,,,,,,,,,Northeast,,15720
-12081,Manatee,Florida,,,42,3,13,7,,108,,0%,Central,Florida,403253
+12081,Manatee,Florida,,,,,13,,,18,,100%,Central,Florida,403253
 29205,Shelby,Missouri,,,,,,,,,,,Northeast,,5930
 06061,Placer,California,,,,,13,,,16,,0%,West,California,398329
-05119,Pulaski,Arkansas,,,62,,8,7,6,107,,50%,Central,Big South,391911
-22071,Orleans,Louisiana,,,,,,,,,,,Headquarters,,390144
+05119,Pulaski,Arkansas,,,63,,11,7,6,17,,50%,Central,Big South,391911
+22071,Orleans,Louisiana,,,,,,,,1,,,Headquarters,,390144
 36067,Onondaga,New York,,,,,,,,1,,,Headquarters,,460528
-12021,Collier,Florida,,Y,104,,22,,6,156,,33%,Central,Florida,384902
+12021,Collier,Florida,,Y,15,,25,,6,156,,100%,Central,Florida,384902
 39013,Belmont,Ohio,,,33,,,,,43,,,Northeast,Keystone,67006
-37063,Durham,North Carolina,,,,,,,,3,,,Northeast,,321488
+37063,Durham,North Carolina,,,,,,,,,,,Northeast,,321488
 41033,Josephine,Oregon,,,,,,,,,,,Northeast,,87487
-18003,Allen,Indiana,,,83,,11,9,5,155,,0%,Central,Heartland,379299
+18003,Allen,Indiana,,,83,,11,8,5,155,,0%,Central,Heartland,379299
 12097,Osceola,Florida,,,,,,,,3,,,Central,CD SS/ Div Off,375751
 48035,Bosque,Texas,,,,,,,,,,,Headquarters,,18685
-01089,Madison,Alabama,,,41,61,6,4,,155,,0%,Central,Big South,372909
+01089,Madison,Alabama,,,41,61,6,5,,154,,0%,Central,Big South,372909
 39147,Seneca,Ohio,,,,,,,,,,,Northeast,,55178
 42073,Lawrence,Pennsylvania,,,17,,,,,19,,,Northeast,Keystone,85512
 47061,Grundy,Tennessee,,,,,,,,,,,Headquarters,,13427
-26161,Washtenaw,Michigan,,,182,247,21,12,7,857,Detroit Metro,100%,Central,CD SS/ Div Off,367601
-34019,Hunterdon,New Jersey,,,32,,3,,,43,N. Jersey,0%,Northeast,Freedom,124371
-12069,Lake,Florida,,,63,,18,1,,106,,0%,Central,CD SS/ Div Off,367118
+26161,Washtenaw,Michigan,,,184,239,21,13,7,856,Detroit Metro,100%,Central,CD SS/ Div Off,367601
+34019,Hunterdon,New Jersey,,,31,,3,,,43,N. Jersey,0%,Northeast,Freedom,124371
+12069,Lake,Florida,,,65,,2,1,,14,,100%,Central,CD SS/ Div Off,367118
 12083,Marion,Florida,,,,,,,,,,,,,365579
 48021,Bastrop,Texas,,,,,,,,,,,Headquarters,,88723
 48351,Newton,Texas,,,,,,,,,,,West,,13595
-27003,Anoka,Minnesota,,Y,72,,,1,,131,MN Area,0%,West,Twin Cities,356921
-08069,Larimer,Colorado,,,53,10,22,2,3,117,,0%,West,Mountain West,356899
+27003,Anoka,Minnesota,,Y,8,,,,,54,MN Area,0%,West,Twin Cities,356921
+08069,Larimer,Colorado,,,54,2,23,2,3,121,,0%,West,Mountain West,356899
 49005,Cache,Utah,,,12,,7,1,,24,,0%,West,Mountain West,128289
 45047,Greenwood,South Carolina,,,,,,,,,,,Headquarters,,70811
 51540,Charlottesville city,Virginia,,,,,,,,,,,Headquarters,,47266
-08035,Douglas,Colorado,,,,,10,1,,17,,,West,,351154
-42125,Washington,Pennsylvania,,,49,,5,,,73,Pitts Metro,0%,Northeast,Keystone,206865
+08035,Douglas,Colorado,,,,,,1,,33,,,West,,351154
+42125,Washington,Pennsylvania,,,48,,5,,,73,Pitts Metro,0%,Northeast,Keystone,206865
 41043,Linn,Oregon,,,,,,,,,,,Northeast,,129749
 48163,Frio,Texas,,,,,,,,,,,Headquarters,,20306
-18057,Hamilton,Indiana,,,,1,,,,4,,100%,Central,Heartland,338011
+18057,Hamilton,Indiana,,,,1,12,,,67,,0%,Central,Heartland,338011
 37047,Columbus,North Carolina,,,,,,,,,,,Northeast,,55508
 47145,Roane,Tennessee,,,,,,,,,,,Headquarters,,53382
 51085,Hanover,Virginia,,,,,,,,,,,Headquarters,,107766
 34033,Salem,New Jersey,,,,,,,,,,,Northeast,,62385
-12111,St. Lucie,Florida,,,45,,5,9,4,82,,100%,Central,Central Care,328297
-08013,Boulder,Colorado,,,32,,19,3,,71,,0%,West,Mountain West,326196
+12111,St. Lucie,Florida,,,45,,5,9,4,81,,100%,Central,Central Care,328297
+08013,Boulder,Colorado,,,32,,21,2,,76,,0%,West,Mountain West,326196
 36079,Putnam,New York,,,,,,,,,,,Northeast,,98320
 24027,Howard,Maryland,,,,,,,2,5,,,Northeast,NED Engnr,325690
-08123,Weld,Colorado,,,29,,,,,38,,0%,West,Mountain West,324492
-21067,Fayette,Kentucky,,,,,,1,,1,,,Headquarters,,323152
+08123,Weld,Colorado,,,31,,,,,39,,0%,West,Mountain West,324492
+21067,Fayette,Kentucky,,,,,,1,,2,,,Headquarters,,323152
 37059,Davie,North Carolina,,,,,,,,,,,Northeast,,42846
 45079,Richland,South Carolina,,,,,,,,,,,Headquarters,,415759
 31107,Knox,Nebraska,,,,,,,,,,,Northeast,,8332
 12033,Escambia,Florida,,,,,,1,,1,,,Central,,318316
-42075,Lebanon,Pennsylvania,,,42,1,,2,,69,S. Central PA,100%,Northeast,Keystone,141793
+42075,Lebanon,Pennsylvania,,,43,3,4,2,,69,S. Central PA,100%,Northeast,Keystone,141793
 48297,Live Oak,Texas,,,,,,,,,,,West,,12207
 39089,Licking,Ohio,,,,,,,,,,,Northeast,,176862
-33013,Merrimack,New Hampshire,,,12,,2,,,21,,,Northeast,GBR,151391
-17111,McHenry,Illinois,,,,,13,,,15,,100%,Central,Chicago,307774
+33013,Merrimack,New Hampshire,,,13,,2,,,21,,,Northeast,GBR,151391
+17111,McHenry,Illinois,,,1,,14,,,16,,0%,Central,Chicago,307774
 35061,Valencia,New Mexico,,,,,,,,,,,Northeast,,76688
-42091,Montgomery,Pennsylvania,,,105,,20,42,16,329,Phila Metro,0%,Northeast,Freedom,830915
+42091,Montgomery,Pennsylvania,,,16,,19,43,16,329,Phila Metro,0%,Northeast,Freedom,830915
 29189,St. Louis,Missouri,,,,,,,,3,,,West,,994205
 45059,Laurens,South Carolina,,,,,,,,,,,Headquarters,,67493
-23005,Cumberland,Maine,,,13,,3,,,23,,,Northeast,GBR,295003
+23005,Cumberland,Maine,,,13,,3,,,22,,,Northeast,GBR,295003
 36025,Delaware,New York,,,,,,,,,,,Northeast,,44135
-12073,Leon,Florida,,,,,,,,,,0%,Central,CD SS/ Div Off,293582
+12073,Leon,Florida,,,69,,16,6,,13,,100%,Central,CD SS/ Div Off,293582
 29077,Greene,Missouri,,,,,,,,,,,Northeast,,293086
-26065,Ingham,Michigan,,,,,,,,1,,100%,Central,Heartland,292406
-13063,Clayton,Georgia,,,86,17,61,234,,1576,ATL Metro,0%,Central,Central Care,292256
+26065,Ingham,Michigan,,,,,14,,,18,,100%,Central,Heartland,292406
+13063,Clayton,Georgia,,,76,5,,14,,115,ATL Metro,0%,Central,Central Care,292256
 26139,Ottawa,Michigan,,,,,,,2,3,,,Advertising,,291830
-34013,Essex,New Jersey,,,167,119,19,25,12,476,N. Jersey,,Northeast,Freedom,798975
-53063,Spokane,Washington,,,86,114,16,7,6,672,,0%,West,Washington,522798
-13051,Chatham,Georgia,,,111,1,24,11,3,196,,0%,Central,Big South,289430
+34013,Essex,New Jersey,,,169,12,21,25,12,474,N. Jersey,,Northeast,Freedom,798975
+53063,Spokane,Washington,,,87,115,17,7,6,671,,0%,West,Washington,522798
+13051,Chatham,Georgia,,,114,,24,11,3,195,,0%,Central,Big South,289430
 02020,Anchorage,Alaska,,,,,,,,,,,,,288000
 40023,Choctaw,Oklahoma,,,,,,,,,,,Northeast,,14672
-06079,San Luis Obispo,California,,,29,,13,1,,55,,0%,West,California,283111
+06079,San Luis Obispo,California,,,,,13,,,15,,0%,West,California,283111
 17201,Winnebago,Illinois,,,,,,,,,,,Central,,282572
 45087,Union,South Carolina,,,,,,,,,,,Headquarters,,27316
 05007,Benton,Arkansas,,Y,,,,,,,,,,,279141
 42039,Crawford,Pennsylvania,,,,,,,,,,,Headquarters,,84629
-06047,Merced,California,,,31,,8,2,,49,,0%,West,California,277680
+06047,Merced,California,,,31,,8,2,,48,,0%,West,California,277680
 48473,Waller,Texas,,,,,,,,,,,Headquarters,,55246
-06087,Santa Cruz,California,,,32,,8,3,,60,,0%,West,California,273213
+06087,Santa Cruz,California,,,32,,9,4,,6,,0%,West,California,273213
 18141,St. Joseph,Indiana,,,54,,,4,3,84,,,Central,CD SS/ Div Off,271826
 53031,Jefferson,Washington,,,,,,,,,,,Headquarters,,32221
-42045,Delaware,Pennsylvania,,Y,426,16,52,86,13,7194,Phila Metro,0%,Northeast,Freedom,566747
+42045,Delaware,Pennsylvania,,Y,85,,7,8,13,18,Phila Metro,0%,Northeast,Freedom,566747
 12001,Alachua,Florida,,,,,,,,1,,,Central,,269043
-09011,New London,Connecticut,,,43,,6,,1,62,,0%,Northeast,NED Engnr,265206
+09011,New London,Connecticut,,,44,,6,,1,62,,0%,Northeast,NED Engnr,265206
 26077,Kalamazoo,Michigan,,,52,,,,2,63,,,Central,CD SS/ Div Off,265066
-12109,St. Johns,Florida,,,,,,,,,,0%,Central,Florida,264672
+12109,St. Johns,Florida,,,,,,,,,,100%,Central,Florida,264672
 55005,Barron,Wisconsin,,,,,,,,,,,Headquarters,,45244
 33019,Sullivan,New Hampshire,,,28,,,,,34,,,Northeast,NED Engnr,43146
 17119,Madison,Illinois,,,,,,,,,,,Central,,262966
-27163,Washington,Minnesota,,,70,1,,,,109,MN Area,,West,Twin Cities,262440
+27163,Washington,Minnesota,,,68,,,,,19,MN Area,,West,Twin Cities,262440
 37017,Bladen,North Carolina,,,,,,,,,,,Northeast,,32722
 22103,St. Tammany,Louisiana,,,,,,,,,,,Central,,260419
 49051,Wasatch,Utah,,,,,,,,,,,West,,34091
 17163,St. Clair,Illinois,,,,,,,,,,,Central,,259686
-24021,Frederick,Maryland,,,44,,11,8,3,105,,0%,Northeast,Beltway,259547
-06041,Marin,California,,,43,,17,3,6,89,,0%,West,California,258826
-13057,Cherokee,Georgia,,Y,270,16,27,25,36,667,,,Central,Big South,258773
+24021,Frederick,Maryland,,,44,,11,8,3,15,,0%,Northeast,Beltway,259547
+06041,Marin,California,,,47,,9,3,6,72,,0%,West,California,258826
+13057,Cherokee,Georgia,,Y,187,2,,7,36,272,,,Central,Big South,258773
 48323,Maverick,Texas,,,,,,,,,,,West,,58722
 24025,Harford,Maryland,,,45,,3,,4,67,Baltimore Metro2,100%,Northeast,Beltway,255441
 42037,Columbia,Pennsylvania,,,,,,,,,,,Headquarters,,64964
 48239,Jackson,Texas,,,,,,,,,,,West,,14760
-53073,Whatcom,Washington,,,,,,,,,,0%,West,Washington,229247
+53073,Whatcom,Washington,,,37,,1,1,,75,,0%,West,Washington,229247
 29047,Clay,Missouri,,,,,,,,,,,Northeast,,249948
 51037,Charlotte,Virginia,,,,,,,,,,,Headquarters,,11880
 22055,Lafayette,Louisiana,,,,,,,,,,,Central,,244390
-13117,Forsyth,Georgia,,,,,,1,,1,,0%,Central,,244252
+13117,Forsyth,Georgia,,,,,,1,,26,,0%,Central,,244252
 51127,New Kent,Virginia,,,,,,,,,,,Headquarters,,23091
-22017,Caddo,Louisiana,,,,,,,,,,,Central,Big South,240204
+22017,Caddo,Louisiana,,,6,2,,1,,72,,,Central,Big South,240204
 37175,Transylvania,North Carolina,,,,,,,,,,,Northeast,,34385
 05143,Washington,Arkansas,,,,,,,,,,,,,239187
 47183,Weakley,Tennessee,,,,,,,,,,,Headquarters,,33328
@@ -286,37 +286,37 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 37125,Moore,North Carolina,,,,,,,,2,,,Northeast,,100880
 10005,Sussex,Delaware,,,,,3,,,4,,0%,Northeast,Beltway,234225
 48419,Shelby,Texas,,,,,,,,,,,West,,25274
-28049,Hinds,Mississippi,,,90,339,18,3,7,576,,0%,Central,Big South,231840
+28049,Hinds,Mississippi,,,9,314,19,3,7,576,,50%,Central,Big South,231840
 51157,Rappahannock,Virginia,,,,,,,,,,,Headquarters,,7370
 48203,Harrison,Texas,,,,,,,,,,,West,,66553
 39081,Jefferson,Ohio,,,31,,,,,35,,,Northeast,Keystone,65325
-36083,Rensselaer,New York,,,,,,,,,,,West,West B. Serv,158714
+36083,Rensselaer,New York,,,2,7,,6,,67,,,West,West B. Serv,158714
 16027,Canyon,Idaho,,,,,,,,,,,Central,,229849
 53069,Wahkiakum,Washington,,,,,,,,,,,Headquarters,,4488
 48037,Bowie,Texas,,,,,,,,,,,Headquarters,,93245
 39095,Lucas,Ohio,,,,,,,,,,,Northeast,,428348
 45011,Barnwell,South Carolina,,,,,,,,,,,Headquarters,,20866
-19113,Linn,Iowa,,,,,,,,,,,Central,Central Care,226706
+19113,Linn,Iowa,,,,1,,,,1,,,Central,Central Care,226706
 01101,Montgomery,Alabama,,,,,,,,,,,,,226486
 29099,Jefferson,Missouri,,,,,,,,,,,Northeast,,225081
 37067,Forsyth,North Carolina,,,,,,,,1,,,Headquarters,,382295
 01003,Baldwin,Alabama,,,,,,,,,,,,,223234
 41025,Harney,Oregon,,,,,,,,,,,Northeast,,7393
 06113,Yolo,California,,,,,,,,,,,,,220500
-12019,Clay,Florida,,,52,,3,,,63,North Floria,0%,Central,Florida,219252
-06007,Butte,California,,,41,,11,1,,62,,0%,West,California,219186
+12019,Clay,Florida,,,53,,3,,,63,North Floria,100%,Central,Florida,219252
+06007,Butte,California,,,41,,12,1,,61,,0%,West,California,219186
 35009,Curry,New Mexico,,,3,,,,,4,,,West,Mountain West,48954
 01117,Shelby,Alabama,,,,,,,,,,,,,217702
 37021,Buncombe,North Carolina,,,,,,,,,,,Northeast,,261191
 04027,Yuma,Arizona,,,,,,,,,,,,,213787
-25001,Barnstable,Massachusetts,,,81,181,25,16,6,404,,,Northeast,GBR,212990
+25001,Barnstable,Massachusetts,,,83,184,25,17,6,44,,,Northeast,GBR,212990
 04015,Mohave,Arizona,,,,,,,,,,,,,212181
 12091,Okaloosa,Florida,,,,,,,,,,,Central,,210738
 72021,Bayaman,Puerto Rico,,Y,,,,,,,,,Northeast,,#N/A
-17019,Champaign,Illinois,,,41,,11,1,3,81,,100%,Central,CD SS/ Div Off,209689
-42065,Jefferson,Pennsylvania,,,29,,,,,34,,,Northeast,,43425
+17019,Champaign,Illinois,,,42,,11,1,3,81,,100%,Central,CD SS/ Div Off,209689
+42065,Jefferson,Pennsylvania,,,,,,,,34,,,Northeast,,43425
 01125,Tuscaloosa,Alabama,,,34,3,8,,,55,,0%,Central,Big South,209355
-37097,Iredell,North Carolina,,,,1,,,,2,,,Central,Central Care,181806
+37097,Iredell,North Carolina,,,,2,,,,2,,,Central,Central Care,181806
 36059,Nassau,New York,,,,,,,,4,,,Northeast,,1356924
 39037,Darke,Ohio,,,,,,,,,,,Northeast,,51113
 47121,Meigs,Tennessee,,,,,,,,,,,Headquarters,,12422
@@ -324,7 +324,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 23031,York,Maine,,,,,,,,,,,Central,,207641
 42121,Venango,Pennsylvania,,,,,,,,,,,Headquarters,,50668
 39021,Champaign,Ohio,,,,,,,,,,,Northeast,,38885
-18039,Elkhart,Indiana,,,26,,15,,,45,,0%,Central,Chicago,206341
+18039,Elkhart,Indiana,,,26,,15,,,45,,50%,Central,Chicago,206341
 13139,Hall,Georgia,,,,,,,,,,,Central,,204441
 53001,Adams,Washington,,,,,,,,,,,Headquarters,,19983
 22019,Calcasieu,Louisiana,,,,,,,,,,,Central,,203436
@@ -333,25 +333,25 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 15001,Hawaii,Hawaii,,,,,,,,1,,,Headquarters,,201513
 27137,St. Louis,Minnesota,,,,,,,,,,,Central,,199070
 39151,Stark,Ohio,,,,,,,,,,,Northeast,,370606
-37129,New Hanover,North Carolina,,,,,,,,,,,Headquarters,,234473
+37129,New Hanover,North Carolina,,,3,,,,,29,,,Headquarters,,234473
 41013,Crook,Oregon,,,,,,,,,,,Northeast,,24404
 55097,Portage,Wisconsin,,,,,,,,,,,Northeast,,70772
 13215,Muscogee,Georgia,,,,,,,,,,,Central,,195769
 18157,Tippecanoe,Indiana,,,,,,,,,,,Central,,195732
-17167,Sangamon,Illinois,,,43,2,12,3,2,79,,100%,Central,Chicago,194672
+17167,Sangamon,Illinois,,,43,2,12,3,2,79,,0%,Central,Chicago,194672
 12053,Hernando,Florida,,,,,,,,,,,,,193920
 46093,Meade,South Dakota,,,,,,,,,,,Headquarters,,28332
-06017,El Dorado,California,,,24,,,,,27,,,West,California,192843
+06017,El Dorado,California,,,26,,,,,27,,,West,California,192843
 45009,Bamberg,South Carolina,,,,,,,,,,,Headquarters,,14066
-26093,Livingston,Michigan,,,,,9,6,,21,,0%,Central,Cust Sales & Reten,191995
+26093,Livingston,Michigan,,,,,1,6,,21,,0%,Central,Cust Sales & Reten,191995
 47161,Stewart,Tennessee,,,,,,,,,,,Headquarters,,13715
 26145,Saginaw,Michigan,,,,,,,,,,,Central,,190539
 36003,Allegany,New York,,,,,,,,,,,Northeast,,46091
-12015,Charlotte,Florida,,,30,1,8,,1,49,West FL,0%,Central,Florida,188910
+12015,Charlotte,Florida,,,31,,7,,1,49,West FL,100%,Central,Florida,188910
 55083,Oconto,Wisconsin,,,,,,,,,,,Northeast,,37930
 42015,Bradford,Pennsylvania,,,,,,,,,,,Northeast,,60323
 31151,Saline,Nebraska,,,,,,,,,,,Northeast,,14224
-28033,DeSoto,Mississippi,,,,2,9,,,13,,0%,Central,Big South,184945
+28033,DeSoto,Mississippi,,,,1,9,,,13,,0%,Central,Big South,184945
 48135,Ector,Texas,,,,,,,,,,,Headquarters,,166223
 12113,Santa Rosa,Florida,,,,,,,,,,,Central,,184313
 38013,Burke,North Dakota,,,,,,,,,,,Northeast,,2115
@@ -361,33 +361,33 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 10001,Kent,Delaware,,,76,1,11,2,,121,,0%,Northeast,Beltway,180786
 37143,Perquimans,North Carolina,,,,,,,,,,,Northeast,,13463
 29019,Boone,Missouri,,,,,,,,,,,Northeast,,180463
-09005,Litchfield,Connecticut,,,43,,8,4,,63,,,Northeast,WNE,180333
+09005,Litchfield,Connecticut,,,42,,,4,,55,,,Northeast,WNE,180333
 06089,Shasta,California,,,,,,,,,,,,,180080
 39099,Mahoning,Ohio,,,,,,,,1,,,Northeast,,228683
 51125,Nelson,Virginia,,,,,,,,,,,Headquarters,,14930
-17143,Peoria,Illinois,,,52,,16,3,6,115,,0%,Central,CD SS/ Div Off,179179
+17143,Peoria,Illinois,,,54,,17,3,6,115,,0%,Central,CD SS/ Div Off,179179
 54035,Jackson,West Virginia,,,,,,,,,,,Headquarters,,28576
 36107,Tioga,New York,,,,,,,,,,,Northeast,,48203
-49049,Utah,Utah,,,68,,10,2,1,103,,0%,West,Mountain West,636235
+49049,Utah,Utah,,,69,,9,2,1,13,,0%,West,Mountain West,636235
 20177,Shawnee,Kansas,,,,,,,,,,,Central,,176875
 39085,Lake,Ohio,,,,,,,,,,,Northeast,,230149
 48309,McLennan,Texas,,,,,,,,,,,West,,256623
 48247,Jim Hogg,Texas,,,,,,,,,,,West,,5200
-12005,Bay,Florida,,,37,,8,2,2,66,,0%,Central,CD SS/ Div Off,174705
-26121,Muskegon,Michigan,,,43,,12,,2,65,,100%,Central,CD SS/ Div Off,173566
+12005,Bay,Florida,,,37,,7,2,2,66,,100%,Central,CD SS/ Div Off,174705
+26121,Muskegon,Michigan,,,44,,13,,2,65,,0%,Central,CD SS/ Div Off,173566
 19163,Scott,Iowa,,,,,,,,,,,Central,,172943
 55135,Waupaca,Wisconsin,,,,,,,,,,,Northeast,,50990
-17113,McLean,Illinois,,,25,,10,1,1,48,,100%,Central,CD SS/ Div Off,171517
+17113,McLean,Illinois,,,25,,11,1,1,48,,0%,Central,CD SS/ Div Off,171517
 44009,Washington,Rhode Island,,,,,,,,,,,Headquarters,,125577
-18127,Porter,Indiana,,,,,,,,,,,Central,Chicago,170389
+18127,Porter,Indiana,,,,,,,,1,,,Central,Chicago,170389
 18063,Hendricks,Indiana,,,,,,,,,,,Central,,170311
 42085,Mercer,Pennsylvania,,,,,,,,,,,Headquarters,,109424
 55055,Jefferson,Wisconsin,,,,,,,,,,,Headquarters,,84769
 36121,Wyoming,New York,,,,,,,,,,,Northeast,,39859
 39053,Gallia,Ohio,,,,,,,,,,,Northeast,,29898
-13223,Paulding,Georgia,,,,,,,,,,,Headquarters,,168667
-24013,Carroll,Maryland,,,30,,,,,39,Baltimore Metro2,,Northeast,Beltway,168447
-08101,Pueblo,Colorado,,,,,,,,,,,West,Mountain West,168424
+13223,Paulding,Georgia,,,,,,1,,1,,,Headquarters,,168667
+24013,Carroll,Maryland,,,3,,,,,39,Baltimore Metro2,,Northeast,Beltway,168447
+08101,Pueblo,Colorado,,,28,,,,,37,,,West,Mountain West,168424
 37053,Currituck,North Carolina,,,,,,,,,,,Northeast,,27763
 15009,Maui,Hawaii,,,,,,,,,,,Central,,167417
 21117,Kenton,Kentucky,,,,,,,,,,,Central,,166998
@@ -396,55 +396,55 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 16055,Kootenai,Idaho,,,,,,,,1,,,Central,,165697
 20209,Wyandotte,Kansas,,,,,,,,,,,Central,,165429
 01081,Lee,Alabama,,,,,,,,,,,,,164542
-42133,York,Pennsylvania,,,55,6,13,1,4,121,S. Central PA,0%,Central,CD SS/ Div Off,449058
-42003,Allegheny,Pennsylvania,,,255,239,40,49,28,1197,Pitts Metro,10%,Northeast,Keystone,1216045
-50003,Bennington,Vermont,,,15,,,,,17,,,Northeast,WNE,35470
+42133,York,Pennsylvania,,,56,6,13,1,4,12,S. Central PA,0%,Central,CD SS/ Div Off,449058
+42003,Allegheny,Pennsylvania,,,284,242,39,49,28,1195,Pitts Metro,10%,Northeast,Keystone,1216045
+50003,Bennington,Vermont,,,16,,,,,17,,,Northeast,WNE,35470
 55101,Racine,Wisconsin,,,,,,,,,,,Northeast,,196311
-24017,Charles,Maryland,,,45,,3,,3,66,DC Metro,100%,Northeast,Beltway,163257
+24017,Charles,Maryland,,,63,,3,,3,84,DC Metro,100%,Northeast,Beltway,163257
 45031,Darlington,South Carolina,,,,,,,,,,,Headquarters,,66618
 39129,Pickaway,Ohio,,,,,,,,,,,Northeast,,58457
 09007,Middlesex,Connecticut,,,,,8,,,13,,0%,Northeast,NED Gov Affairs,162436
 42023,Cameron,Pennsylvania,,,,,,,,,,,Northeast,,4447
 30107,Wheatland,Montana,,,,,,,,,,,Northeast,,2126
 27145,Stearns,Minnesota,,,,,,,1,3,,,Advertising,,161075
-12085,Martin,Florida,,,44,,10,,,63,,100%,Central,CD SS/ Div Off,161000
+12085,Martin,Florida,,,44,,1,,,62,,100%,Central,CD SS/ Div Off,161000
 25015,Hampshire,Massachusetts,,,,,,,,,,,Central,,160830
 12061,Indian River,Florida,,,37,,9,,,59,,100%,Central,CD SS/ Div Off,159923
 37031,Carteret,North Carolina,,,,,,,,,,,Northeast,,69473
 51001,Accomack,Virginia,,,,,,,,,,,West,,32316
-26147,St. Clair,Michigan,,,,,,,,,,,Central,Heartland,159128
+26147,St. Clair,Michigan,,,1,,,,,,,,Central,Heartland,159128
 36077,Otsego,New York,,,,,,,,,,,Northeast,,59493
-26075,Jackson,Michigan,,,,,10,,1,13,,100%,Central,Heartland,158510
+26075,Jackson,Michigan,,,,,1,,1,13,,100%,Central,Heartland,158510
 47159,Smith,Tennessee,,,,,,,,,,,Headquarters,,20157
 27109,Olmsted,Minnesota,,,,,,,,,,,Central,,158293
-18081,Johnson,Indiana,,,53,,14,,,81,,100%,Central,Heartland,158167
+18081,Johnson,Indiana,,,55,,14,,,81,,100%,Central,Heartland,158167
 13153,Houston,Georgia,,,,,,,,,,,Central,,157863
 39041,Delaware,Ohio,,,,,,,,1,,,Headquarters,,209177
 06039,Madera,California,,,,,,,,,,,,,157327
-13073,Columbia,Georgia,,,97,1,21,4,5,164,,0%,Central,Big South,156714
+13073,Columbia,Georgia,,,11,1,23,4,5,164,,0%,Central,Big South,156714
 48087,Collingsworth,Texas,,,,,,,,,,,Headquarters,,2920
 36087,Rockland,New York,,,,,,,,1,,,Headquarters,,325789
 28121,Rankin,Mississippi,,,,,,,,,,,Northeast,,155271
 42051,Fayette,Pennsylvania,,,,,,,,,,,Headquarters,,129274
 08077,Mesa,Colorado,,,,,,,,,,,,,154210
-26021,Berrien,Michigan,,,26,,11,,,45,,100%,Central,Chicago,153401
-22073,Ouachita,Louisiana,,,29,1,5,1,1,47,,0%,Central,Big South,153279
+26021,Berrien,Michigan,,,28,,11,,,45,,0%,Central,Chicago,153401
+22073,Ouachita,Louisiana,,,29,1,5,1,1,47,,100%,Central,Big South,153279
 13021,Bibb,Georgia,,,,,,,,,,,Central,,153159
 06031,Kings,California,,,,,,,,,,,,,152940
 51175,Southampton,Virginia,,,,,,,,,,,Headquarters,,17631
 23019,Penobscot,Maine,,,,,,,,,,,Central,,152148
-33011,Hillsborough,New Hampshire,,,105,285,27,431,8,1931,,,Central,CD SS/ Div Off,417025
+33011,Hillsborough,New Hampshire,,,14,81,28,316,8,1385,,,Central,CD SS/ Div Off,417025
 19103,Johnson,Iowa,,,,,,,,,,,Central,,151140
 24043,Washington,Maryland,,,,,,,,1,,,Central,Central Care,151049
 09013,Tolland,Connecticut,,,,,,,,,,,,,150721
 26115,Monroe,Michigan,,,,,,,,1,,,Headquarters,,150500
 35043,Sandoval,New Mexico,,,,,,,,1,,,Headquarters,,146748
-12017,Citrus,Florida,,,3,,,,,6,,,Headquarters,,149657
-34009,Cape May,New Jersey,,,32,,13,,,52,,,Northeast,Freedom,92039
+12017,Citrus,Florida,,,,,,,,2,,,Headquarters,,149657
+34009,Cape May,New Jersey,,,31,,11,,,5,,,Northeast,Freedom,92039
 27139,Scott,Minnesota,,,,,,,,,,,Central,,149013
-13077,Coweta,Georgia,,,,,,,7,10,,,Central,,148509
+13077,Coweta,Georgia,,,,,,,7,1,,,Central,,148509
 37131,Northampton,North Carolina,,,,,,,,,,,Northeast,,19483
-18105,Monroe,Indiana,,,,,,,,,,,Central,CD SS/ Div Off,148431
+18105,Monroe,Indiana,,,5,,,3,,7,,,Central,CD SS/ Div Off,148431
 40013,Bryan,Oklahoma,,,,,,,,,,,Northeast,,47995
 35047,San Miguel,New Mexico,,,2,,,,,2,,,West,Mountain West,27277
 13097,Douglas,Georgia,,,,2,,,,2,,0%,Central,Central Care,146343
@@ -456,16 +456,16 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 37015,Bertie,North Carolina,,,,,,,,,,,Northeast,,18947
 37155,Robeson,North Carolina,,,,,,,,,,,Northeast,,130625
 17161,Rock Island,Illinois,,,,,,,,,,,Central,,141879
-42071,Lancaster,Pennsylvania,,,77,,13,3,5,134,S. Central PA,0%,Northeast,Keystone,545724
+42071,Lancaster,Pennsylvania,,,11,,11,3,5,167,S. Central PA,0%,Northeast,Keystone,545724
 42103,Pike,Pennsylvania,,,,,,,,,,,Headquarters,,55809
 22063,Livingston,Louisiana,,,,,,,,,,,Central,,140789
-34035,Somerset,New Jersey,,,57,,3,7,7,100,N. Jersey,0%,Northeast,Freedom,328934
+34035,Somerset,New Jersey,,,57,,3,7,7,77,N. Jersey,0%,Northeast,Freedom,328934
 27171,Wright,Minnesota,,,,,,,,,,,Central,,138377
 45037,Edgefield,South Carolina,,,,,,,,,,,Headquarters,,27260
 48437,Swisher,Texas,,,,,,,,,,,West,,7397
-06055,Napa,California,,,102,5,18,8,,188,,0%,West,WD SS/ Div Off,137744
+06055,Napa,California,,,99,,9,8,,175,,0%,West,WD SS/ Div Off,137744
 48375,Potter,Texas,,,,,,,,,,,West,,117415
-51173,Smyth,Virginia,,,14,,,,,16,,100%,Central,Big South,30104
+51173,Smyth,Virginia,,,15,,1,,,16,,100%,Central,Big South,30104
 48177,Gonzales,Texas,,,,,,,,,,,Headquarters,,20837
 48253,Jones,Texas,,,,,,,,,,,West,,20083
 55127,Walworth,Wisconsin,,,,,,,,,,,Northeast,,103868
@@ -474,7 +474,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 06023,Humboldt,California,,,,,,,,,,,,,135558
 22105,Tangipahoa,Louisiana,,,,,,,,,,,Central,,134758
 51081,Greensville,Virginia,,,,,,,,,,,Headquarters,,11336
-26025,Calhoun,Michigan,,,,,,,,,,100%,Central,Heartland,134159
+26025,Calhoun,Michigan,,,,,4,2,,7,,100%,Central,Heartland,134159
 39019,Carroll,Ohio,,,,,,,,,,,Northeast,,26914
 21015,Boone,Kentucky,,,,,,,,,,,Central,,133581
 47005,Benton,Tennessee,,,,,,,,,,,Headquarters,,16160
@@ -484,20 +484,20 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 17179,Tazewell,Illinois,,,3,,,,,4,,,Central,Chicago,131803
 19013,Black Hawk,Iowa,,,,,,,,,,,Central,,131228
 39169,Wayne,Ohio,,,,,,,,,,,Northeast,,115710
-33015,Rockingham,New Hampshire,,,102,,4,2,5,259,,0%,Northeast,GBR,309769
+33015,Rockingham,New Hampshire,,,12,,4,2,5,198,,0%,Northeast,GBR,309769
 37151,Randolph,North Carolina,,,,,,,,,,,Northeast,,143667
-42017,Bucks,Pennsylvania,,,124,381,17,328,7,1301,Phila Metro,0%,Northeast,Freedom,628270
-41039,Lane,Oregon,,,50,,17,3,4,97,,0%,West,Portland,382067
+42017,Bucks,Pennsylvania,,,124,376,16,331,7,1297,Phila Metro,0%,Northeast,Freedom,628270
+41039,Lane,Oregon,,,51,,17,4,4,97,,0%,West,Portland,382067
 22079,Rapides,Louisiana,,,,,,,,,,,Central,,129648
-18095,Madison,Indiana,,,,,,,,,,100%,Central,CD SS/ Div Off,129569
+18095,Madison,Indiana,,,39,,4,,,53,,100%,Central,CD SS/ Div Off,129569
 47175,Van Buren,Tennessee,,,,,,,,,,,Headquarters,,5872
-42047,Elk,Pennsylvania,,,3,,,,,3,,,Northeast,,29910
-53053,Pierce,Washington,,,147,375,12,25,,822,King WA,0%,West,Washington,904980
-17093,Kendall,Illinois,,,,,11,,,15,,100%,Central,Chicago,128990
+42047,Elk,Pennsylvania,,,,,,,,3,,,Northeast,,29910
+53053,Pierce,Washington,,,149,376,31,27,,85,King WA,0%,West,Washington,904980
+17093,Kendall,Illinois,,,,,13,,,13,,100%,Central,Chicago,128990
 13059,Clarke,Georgia,,,,,,,,,,,Central,,128331
 48507,Zavala,Texas,,,,,,,,,,,Headquarters,,11840
 05131,Sebastian,Arkansas,,,,,,,,,,,,,127827
-22015,Bossier,Louisiana,,,58,2,13,1,,88,,0%,Central,Big South,127039
+22015,Bossier,Louisiana,,,,,13,,,16,,0%,Central,Big South,127039
 36011,Cayuga,New York,,,,,,,,1,,,Headquarters,,76576
 45073,Oconee,South Carolina,,,,,,,,,,,Headquarters,,79546
 22005,Ascension,Louisiana,,,,,,,,,,,Central,,126604
@@ -505,14 +505,14 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 04003,Cochise,Arizona,,,,,,,,,,,,,125922
 44005,Newport,Rhode Island,,,,,,,,,,,Headquarters,,82082
 25003,Berkshire,Massachusetts,,,,,,,,1,,,Northeast,,124944
-34017,Hudson,New Jersey,,Y,,,8,,,9,,100%,Northeast,Freedom,672391
+34017,Hudson,New Jersey,,Y,,,9,,,1,,0%,Northeast,Freedom,672391
 35041,Roosevelt,New Mexico,,,,,,,,,,,Northeast,,18500
 48179,Gray,Texas,,,,,,,,,,,Headquarters,,21886
 37187,Washington,North Carolina,,,,,,,,,,,Northeast,,11580
 05125,Saline,Arkansas,,,,,,,,,,,,,122437
 23011,Kennebec,Maine,,,,,,,,,,,Central,,122302
 20045,Douglas,Kansas,,,,,,,,,,,Central,,122259
-42009,Bedford,Pennsylvania,,,18,,,,,20,,,Northeast,Keystone,47888
+42009,Bedford,Pennsylvania,,,18,,,,,2,,,Northeast,Keystone,47888
 29097,Jasper,Missouri,,,,,,,,,,,Northeast,,121328
 39135,Preble,Ohio,,,,,,,,,,,Northeast,,40882
 40025,Cimarron,Oklahoma,,,,,,,,,,,Northeast,,2137
@@ -532,23 +532,23 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 09015,Windham,Connecticut,,,,,,,,1,,,Headquarters,,116782
 39165,Warren,Ohio,,,,,,,,,,,Northeast,,234602
 55113,Sawyer,Wisconsin,,,,,,,,,,,Northeast,,16558
-12035,Flagler,Florida,,,,,8,,,12,,,Central,,115081
+12035,Flagler,Florida,,,,,9,,,12,,,Central,,115081
 30029,Flathead,Montana,,,,,,,,,,,Northeast,,103806
-13113,Fayette,Georgia,,,102,,,,,127,ATL Metro,0%,Central,Big South,114421
-18035,Delaware,Indiana,,,38,,3,,,53,,100%,Central,CD SS/ Div Off,114135
+13113,Fayette,Georgia,,,13,,12,,,142,ATL Metro,0%,Central,Big South,114421
+18035,Delaware,Indiana,,,4,,5,,,57,,0%,Central,CD SS/ Div Off,114135
 46101,Moody,South Dakota,,,,,,,,,,,Headquarters,,6576
-01015,Calhoun,Alabama,,,21,,4,1,,34,,,,,113605
+01015,Calhoun,Alabama,,,,,,,,,,,,,113605
 24037,St. Mary's,Maryland,,,,,,,,,,,Central,,113510
 42077,Lehigh,Pennsylvania,,,,,,,2,6,,,Northeast,NED Mktg,369318
 13217,Newton,Georgia,,,,,,,,,,0%,Central,,111744
 41015,Curry,Oregon,,,,,,,,,,,Northeast,,22925
-21093,Hardin,Kentucky,,,32,1,10,3,,58,,0%,Central,CD SS/ Div Off,110958
+21093,Hardin,Kentucky,,,33,1,1,3,,58,,0%,Central,CD SS/ Div Off,110958
 04017,Navajo,Arizona,,,,,,,,,,,,,110924
-53011,Clark,Washington,,,79,4,18,7,,157,North Oregon,0%,West,Portland,488241
-22109,Terrebonne,Louisiana,,,,,,,,,,0%,Central,Big South,110461
+53011,Clark,Washington,,,79,,18,7,,157,North Oregon,0%,West,Portland,488241
+22109,Terrebonne,Louisiana,,,21,,5,,,31,,0%,Central,Big South,110461
 05031,Craighead,Arkansas,,,,,,,,,,,,,110332
-26045,Eaton,Michigan,,,,,,,,,,,Central,CD SS/ Div Off,110268
-18091,LaPorte,Indiana,,,25,,,,,30,,,Central,Chicago,109888
+26045,Eaton,Michigan,,,61,,,7,,126,,,Central,CD SS/ Div Off,110268
+18091,LaPorte,Indiana,,,25,,,,,3,,,Central,Chicago,109888
 17091,Kankakee,Illinois,,,29,,4,1,,42,,100%,Central,Chicago,109862
 36043,Herkimer,New York,,,,,,,,,,,Northeast,,61319
 36065,Oneida,New York,,,,,,,,,,,Northeast,,228671
@@ -557,41 +557,41 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 17099,LaSalle,Illinois,,,,,,,,,,,Central,,108669
 02170,Matanuska-Susitna Borough,Alaska,,,,,,,,,,,,,108317
 23001,Androscoggin,Maine,,,,,,,,,,,Central,,108277
-47007,Bledsoe,Tennessee,,,3,,,,,4,,,Headquarters,,15064
+47007,Bledsoe,Tennessee,,,,,,,,,,,Headquarters,,15064
 51083,Halifax,Virginia,,,6,,,,,6,,,Northeast,Beltway,33911
 36097,Schuyler,New York,,,,,,,,,,,Northeast,,17807
-13015,Bartow,Georgia,,,32,,17,,,72,,0%,Central,Big South,107738
+13015,Bartow,Georgia,,,32,,31,,,9,,0%,Central,Big South,107738
 41065,Wasco,Oregon,,,,,,,,,,,Northeast,,26682
 18167,Vigo,Indiana,,,,,,,,,,,Central,,107038
 39105,Meigs,Ohio,,,,,,,,,,,Northeast,,22907
 45081,Saluda,South Carolina,,,,,,,,,,,Headquarters,,20473
-28089,Madison,Mississippi,,,,322,,,,381,,,Central,Big South,106272
-12055,Highlands,Florida,,,22,,3,,,31,,0%,Central,CD SS/ Div Off,106221
+28089,Madison,Mississippi,,,,331,,,,381,,,Central,Big South,106272
+12055,Highlands,Florida,,,23,,3,,,31,,100%,Central,CD SS/ Div Off,106221
 01069,Houston,Alabama,,,,,,,,,,,,,105882
 29037,Cass,Missouri,,,,,,,,,,,Northeast,,105780
 54057,Mineral,West Virginia,,,,,,,,,,,Headquarters,,26868
-34039,Union,New Jersey,,,,,,,,1,,,Headquarters,,556341
+34039,Union,New Jersey,,,,,,,,2,,,Headquarters,,556341
 27019,Carver,Minnesota,,,,,,,,2,,,Headquarters,,105089
 48393,Roberts,Texas,,,,,,,,,,,West,,854
-17037,DeKalb,Illinois,,,20,,,,,24,,0%,Central,Chicago,104897
+17037,DeKalb,Illinois,,,2,,,,,24,,0%,Central,Chicago,104897
 55031,Douglas,Wisconsin,,,,,,,,,,,Headquarters,,43150
 13313,Whitfield,Georgia,,,,,,,,,,,Central,,104628
 29163,Pike,Missouri,,,,,,,,,,,Northeast,,18302
-17115,Macon,Illinois,,,28,,10,1,1,47,,100%,Central,Chicago,104009
-29071,Franklin,Missouri,,,,,,,,1,,,Northeast,,103967
+17115,Macon,Illinois,,,28,,11,1,1,47,,100%,Central,Chicago,104009
+29071,Franklin,Missouri,,,,,,,,,,,Northeast,,103967
 55123,Vernon,Wisconsin,,,,,,,,,,,Northeast,,30822
 30023,Deer Lodge,Montana,,,,,,,,,,,Northeast,,9140
-24045,Wicomico,Maryland,,,60,,5,1,4,82,,0%,Northeast,Beltway,103609
+24045,Wicomico,Maryland,,,61,,5,1,4,82,,0%,Northeast,Beltway,103609
 55035,Eau Claire,Wisconsin,,,,,,,,,,,Headquarters,,104646
 26017,Bay,Michigan,,,,,,,,,,,Central,,103126
 19193,Woodbury,Iowa,,,,,,,,,,,Central,,103107
-41067,Washington,Oregon,,,83,417,12,,,731,North Oregon,50%,West,WD SS/ Div Off,601592
-24015,Cecil,Maryland,,,20,,,,,27,"N MD, N DE",,Northeast,Beltway,102855
+41067,Washington,Oregon,,,83,425,12,,,73,North Oregon,0%,West,WD SS/ Div Off,601592
+24015,Cecil,Maryland,,,2,,,,,27,"N MD, N DE",,Northeast,Beltway,102855
 38105,Williams,North Dakota,,,,,,,,,,,Northeast,,37589
 01055,Etowah,Alabama,,,,,,,,,,,,,102268
 36105,Sullivan,New York,,,,,,,,,,,Northeast,,75432
 37045,Cleveland,North Carolina,,,,,,,,,,,Northeast,,97947
-39025,Clermont,Ohio,,,,,,,,,,,Headquarters,,206428
+39025,Clermont,Ohio,,,,,,1,,1,,,Headquarters,,206428
 21059,Daviess,Kentucky,,,,,,,,,,,Central,,101511
 37121,Mitchell,North Carolina,,,,,,,,,,,Northeast,,14964
 06057,Nevada,California,,,,,,,,,,,,,99755
@@ -609,12 +609,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 47105,Loudon,Tennessee,,,,,,,,,,,Headquarters,,54068
 37041,Chowan,North Carolina,,,,,,,,,,,Northeast,,13943
 53019,Ferry,Washington,,,,,,,,,,,Headquarters,,7627
-22057,Lafourche,Louisiana,,,20,,5,,,31,,,Central,,97614
+22057,Lafourche,Louisiana,,,,,,,,,,,Central,,97614
 19061,Dubuque,Iowa,,,,,,,,,,,Central,,97311
 39003,Allen,Ohio,,,,,,,,,,,Northeast,,102351
 27141,Sherburne,Minnesota,,,,,,,,,,,Central,,97238
 19169,Story,Iowa,,,,,,,,,,,Central,,97117
-06101,Sutter,California,,,38,,11,1,1,63,,0%,West,California,96971
+06101,Sutter,California,,,39,,11,1,1,63,,0%,West,California,96971
 02090,Fairbanks North Star Borough,Alaska,,,,,,,,,,,,,96849
 01095,Marshall,Alabama,,,,,,,,,,,,,96774
 47115,Marion,Tennessee,,,,,,,,,,,Headquarters,,28907
@@ -633,26 +633,26 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 26055,Grand Traverse,Michigan,,,,,,,,,,,Central,,93088
 40153,Woodward,Oklahoma,,,,,,,,,,,Northeast,,20211
 21151,Madison,Kentucky,,,,,,,,,,,Central,,92987
-01077,Lauderdale,Alabama,,,16,,,,,22,,100%,Central,Big South,92729
+01077,Lauderdale,Alabama,,,17,,4,,,22,,100%,Central,Big South,92729
 24009,Calvert,Maryland,,,,,,,,2,,,Northeast,NED Gov Affairs,92525
 40125,Pottawatomie,Oklahoma,,,,,,,,,,,Northeast,,72592
-51179,Stafford,Virginia,,,,,,,,,,,Northeast,Beltway,152882
+51179,Stafford,Virginia,,,16,,,,,17,,,Northeast,Beltway,152882
 48465,Val Verde,Texas,,,,,,,,,,,Headquarters,,49025
-34007,Camden,New Jersey,Yes,,178,,31,34,3,511,South Jersey,0%,Northeast,Freedom,506471
+34007,Camden,New Jersey,Yes,,179,,32,33,3,511,South Jersey,0%,Northeast,Freedom,506471
 39153,Summit,Ohio,,,,,,,,,,,Northeast,,541013
 54007,Braxton,West Virginia,,,,,,,,,,,Headquarters,,13957
 37153,Richmond,North Carolina,,,,,,,,,,,Northeast,,44829
 13247,Rockdale,Georgia,,,,,,,,,,,Central,,90896
 42093,Montour,Pennsylvania,,,,,,,,,,,Headquarters,,18230
 55115,Shawano,Wisconsin,,,,,,,,,,,Northeast,,40899
-37019,Brunswick,North Carolina,,,3,,,,,29,,,Northeast,,142820
+37019,Brunswick,North Carolina,,,,,,,,,,,Northeast,,142820
 36113,Warren,New York,,,,,,,,,,,Northeast,,63944
 33007,Coos,New Hampshire,,,,,,,,1,,,Headquarters,,31563
 01115,St. Clair,Alabama,,,,,,,,,,,,,89512
 51067,Franklin,Virginia,,,17,,,,,18,,100%,Northeast,Beltway,56042
 55085,Oneida,Wisconsin,,,,,,,,,,,Northeast,,35595
 48017,Bailey,Texas,,,,,,,,,,,Headquarters,,7000
-12089,Nassau,Florida,,,17,,4,,,26,North Floria,0%,Central,Florida,88625
+12089,Nassau,Florida,,,17,,4,,,26,North Floria,100%,Central,Florida,88625
 29043,Christian,Missouri,,,,,,,,,,,Northeast,,88595
 48287,Lee,Texas,,,,,,,,,,,West,,17239
 13095,Dougherty,Georgia,,,,,,,,,,,Central,,87956
@@ -668,31 +668,31 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 45071,Newberry,South Carolina,,,3,,,,,4,,,Central,Big South,38440
 37105,Lee,North Carolina,,,,,,,,,,,Northeast,,61779
 41049,Morrow,Oregon,,,,,,,,,,,Northeast,,11603
-42069,Lackawanna,Pennsylvania,,,,,10,,6,22,Northeast PA,0%,Northeast,Keystone,209674
-28081,Lee,Mississippi,,,,,,,,,,,Central,Big South,85436
-13127,Glynn,Georgia,,,21,,4,1,1,32,,0%,Central,CD SS/ Div Off,85292
+42069,Lackawanna,Pennsylvania,,,,,1,,6,22,Northeast PA,0%,Northeast,Keystone,209674
+28081,Lee,Mississippi,,,2,,,1,,34,,,Central,Big South,85436
+13127,Glynn,Georgia,,,21,,4,1,1,32,,100%,Central,CD SS/ Div Off,85292
 53025,Grant,Washington,,,,,,,,,,,Headquarters,,97733
 55051,Iron,Wisconsin,,,,,,,,,,,Headquarters,,5687
 42035,Clinton,Pennsylvania,,,,,,,,,,,Headquarters,,38632
 42059,Greene,Pennsylvania,,,,,,,,,,,Headquarters,,36233
-18005,Bartholomew,Indiana,,,37,1,,,,47,,100%,Central,CD SS/ Div Off,83779
+18005,Bartholomew,Indiana,,,37,,3,,,47,,100%,Central,CD SS/ Div Off,83779
 01043,Cullman,Alabama,,,,,,,,,,,,,83768
 54103,Wetzel,West Virginia,,,,,,,,,,,Headquarters,,15065
 36013,Chautauqua,New York,,,,,,,,,,,Northeast,,126903
 48357,Ochiltree,Texas,,,,,,,,,,,West,,9836
 13013,Barrow,Georgia,,,,,,,4,6,,,Central,,83240
 26111,Midland,Michigan,,,,,,,,,,,Central,,83156
-48209,Hays,Texas,,,,,,,,111,,,West,,230191
-18067,Howard,Indiana,,,,,,,,,,100%,Central,CD SS/ Div Off,82544
+48209,Hays,Texas,,,,,,,,2,,,West,,230191
+18067,Howard,Indiana,,,38,,13,,,62,,100%,Central,CD SS/ Div Off,82544
 37023,Burke,North Carolina,,,,,,,,,,,Northeast,,90485
 51109,Louisa,Virginia,,,,,,,,,,,Headquarters,,37591
 22097,St. Landry,Louisiana,,,,,,,,,,,Central,,82124
 44001,Bristol,Rhode Island,,,,,,,,,,,Headquarters,,48479
-51770,Roanoke city,Virginia,,,,,,,,,,,Northeast,,99143
+51770,Roanoke city,Virginia,,,,,,,,12,,,Northeast,,99143
 37191,Wayne,North Carolina,,,,,,,,,,,Northeast,,123131
 40115,Ottawa,Oklahoma,,,,,,,,,,,Northeast,,31127
 20103,Leavenworth,Kansas,,,,,,,,,,,Central,,81758
-21029,Bullitt,Kentucky,,,,,,,,3,,,Central,,81676
+21029,Bullitt,Kentucky,,,,,,,,,,,Central,,81676
 30009,Carbon,Montana,,,,,,,,,,,Northeast,,10725
 40141,Tillman,Oklahoma,,,,,,,,,,,Northeast,,7250
 01051,Elmore,Alabama,,,,,,,,,,,,,81209
@@ -702,17 +702,17 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01121,Talladega,Alabama,,,,,,,,,,,,,79978
 56021,Laramie,Wyoming,,,,,,,,,,,Northeast,,99500
 13031,Bulloch,Georgia,,,,,,,,,,,Central,,79608
-26037,Clinton,Michigan,,,61,3,14,7,2,142,,,Central,,79595
+26037,Clinton,Michigan,,,,,,,2,,,,Central,,79595
 45065,McCormick,South Carolina,,,,,,,,,,,Headquarters,,9463
-18085,Kosciusko,Indiana,,,10,,,,,11,,,Central,Chicago,79456
-42029,Chester,Pennsylvania,,,65,,8,12,5,1310,Phila Metro,0%,Northeast,Freedom,524989
-51013,Arlington,Virginia,,,68,,8,,5,128,DC Metro,0%,Northeast,Beltway,236842
+18085,Kosciusko,Indiana,,,1,,,,,11,,,Central,Chicago,79456
+42029,Chester,Pennsylvania,,,65,,8,12,5,1313,Phila Metro,0%,Northeast,Freedom,524989
+51013,Arlington,Virginia,,,68,,8,,5,118,DC Metro,0%,Northeast,Beltway,236842
 55065,Lafayette,Wisconsin,,,,,,,,,,,Headquarters,,16665
 29031,Cape Girardeau,Missouri,,,,,,,,,,,Northeast,,78871
 05145,White,Arkansas,,,,,,,,,,,,,78753
 06115,Yuba,California,,,,,,,,,,,,,78668
 18043,Floyd,Indiana,,,,,,,,,,,Central,,78522
-18059,Hancock,Indiana,,,,,,,,,,,Central,Heartland,78168
+18059,Hancock,Indiana,,,,,,,,1,,,Central,Heartland,78168
 41055,Sherman,Oregon,,,,,,,,,,,Northeast,,1780
 53005,Benton,Washington,,,,,,,,,,,Headquarters,,204390
 53003,Asotin,Washington,,,,,,,,,,,Headquarters,,22582
@@ -728,19 +728,19 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 39059,Guernsey,Ohio,,,,,,,,,,,Northeast,,38875
 17183,Vermilion,Illinois,,,,,,,,,,,Central,,75758
 26159,Van Buren,Michigan,,,,,,,,,,,Central,,75677
-51011,Appomattox,Virginia,,,18,,,1,3,29,,,West,,15911
+51011,Appomattox,Virginia,,,,,,,3,,,,West,,15911
 36101,Steuben,New York,,,,,,,,,,,Northeast,,95379
 39141,Ross,Ohio,,,,,,,,,,,Northeast,,76666
 53021,Franklin,Washington,,,,,,,,,,,Headquarters,,95222
 28035,Forrest,Mississippi,,,,,,,,,,,Central,,74897
-12107,Putnam,Florida,,,16,,2,,,20,,0%,Central,Florida,74521
+12107,Putnam,Florida,,,16,,2,,,2,,100%,Central,Florida,74521
 37033,Caswell,North Carolina,,,,,,,,,,,Northeast,,22604
 39039,Defiance,Ohio,,,,,,,,,,,Northeast,,38087
 20161,Riley,Kansas,,,,,,,,,,,Central,,74232
-12087,Monroe,Florida,,,27,1,8,,,45,Miami Metro,100%,Central,CD SS/ Div Off,74228
+12087,Monroe,Florida,,,27,,1,,,45,Miami Metro,100%,Central,CD SS/ Div Off,74228
 28075,Lauderdale,Mississippi,,,,,,,,,,,Central,,74125
 12131,Walton,Florida,,y,,,,,,,,,Central,,74071
-42107,Schuylkill,Pennsylvania,,,9,,,,,10,,,Northeast,Keystone,141359
+42107,Schuylkill,Pennsylvania,,,9,,,,,1,,,Northeast,Keystone,141359
 54077,Preston,West Virginia,,,,,,,,,,,Headquarters,,33432
 05085,Lonoke,Arkansas,,,,,,,,,,,,,73309
 55137,Waushara,Wisconsin,,,,,,,,,,,Northeast,,24443
@@ -752,10 +752,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 04001,Apache,Arizona,,,,,,,,,,,,,71887
 47143,Rhea,Tennessee,,,,,,,,,,,Headquarters,,33167
 37167,Stanly,North Carolina,,,,,,,,,,,Northeast,,62806
-12023,Columbia,Florida,,,20,,2,,,24,,0%,Central,CD SS/ Div Off,71686
+12023,Columbia,Florida,,,2,,2,,,24,,100%,Central,CD SS/ Div Off,71686
 40033,Cotton,Oklahoma,,,,,,,,,,,Northeast,,5666
 01049,DeKalb,Alabama,,,,,,,,,,,,,71513
-35029,Luna,New Mexico,,,2,,,,,2,,,West,,23709
+35029,Luna,New Mexico,,,,,,,,2,,,West,,23709
 51600,Fairfax city,Virginia,,,,,,,,,,,Headquarters,,24019
 35021,Harding,New Mexico,,,,,,,,,,,Northeast,,625
 36051,Livingston,New York,,,,,,,,,,,Northeast,,62914
@@ -777,16 +777,16 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 30047,Lake,Montana,,,,,,,,,,,Northeast,,30458
 47055,Giles,Tennessee,,,,,,,,,,,Headquarters,,29464
 37189,Watauga,North Carolina,,,,,,,,,,,Northeast,,56177
-51195,Wise,Virginia,,,15,,4,,,20,,0%,Central,Big South,37383
+51195,Wise,Virginia,,,15,,4,,,2,,0%,Central,Big South,37383
 41031,Jefferson,Oregon,,,,,,,,,,,Northeast,,24658
 26155,Shiawassee,Michigan,,,,,,,,,,,Central,,68122
 28065,Jefferson Davis,Mississippi,,,,,,,,,,,Central,,68098
-28067,Jones,Mississippi,,,,,,,,,Central MS,100%,Central,Big South,68098
+28067,Jones,Mississippi,,,14,,4,,,19,Central MS,100%,Central,Big South,68098
 40091,McIntosh,Oklahoma,,,,,,,,,,,Northeast,,19596
-18011,Boone,Indiana,,Y,175,75,12,33,18,493,,,Central,,67843
+18011,Boone,Indiana,,Y,,,,,18,1,,,Central,,67843
 27013,Blue Earth,Minnesota,,,4,,,,,5,,100%,West,Twin Cities,67653
 38097,Traill,North Dakota,,,,,,,,,,,Northeast,,8036
-13047,Catoosa,Georgia,,,,2,,,,2,,100%,Central,Big South,67580
+13047,Catoosa,Georgia,,,,,2,,,2,,100%,Central,Big South,67580
 45055,Kershaw,South Carolina,,,,,,,,,,,Headquarters,,66551
 35031,McKinley,New Mexico,,,5,,,,,5,,,West,Mountain West,71367
 54029,Hancock,West Virginia,,,,,,,,,,,Headquarters,,28810
@@ -806,10 +806,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 17199,Williamson,Illinois,,,,,,,,,,,Central,,66597
 48199,Hardin,Texas,,,,,,,,,,,Headquarters,,57602
 45051,Horry,South Carolina,,,,,,,,,,,Headquarters,,354081
-18177,Wayne,Indiana,,,31,,,,1,37,,100%,Central,CD SS/ Div Off,65884
+18177,Wayne,Indiana,,,32,,,1,1,37,,100%,Central,CD SS/ Div Off,65884
 18053,Grant,Indiana,,,,,,,,,,,Central,,65769
 17001,Adams,Illinois,,,11,,4,,,17,,100%,Central,Chicago,65435
-21145,McCracken,Kentucky,,,,,,,,,,0%,Central,CD SS/ Div Off,65418
+21145,McCracken,Kentucky,,,27,,13,1,,52,,0%,Central,CD SS/ Div Off,65418
 39005,Ashland,Ohio,,,,,,,,,,,Northeast,,53484
 39077,Huron,Ohio,,,,,,,,,,,Northeast,,58266
 48343,Morris,Texas,,,,,,,,,,,West,,12388
@@ -819,7 +819,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21199,Pulaski,Kentucky,,,,,,,,,,,Central,,64979
 42033,Clearfield,Pennsylvania,,,,,,,,,,,Headquarters,,79255
 47059,Greene,Tennessee,,,,,,,,,,,Headquarters,,69069
-42001,Adams,Pennsylvania,,,30,,,,,39,S. Central PA,,Northeast,Keystone,103009
+42001,Adams,Pennsylvania,,,3,,,,,39,S. Central PA,,Northeast,Keystone,103009
 26067,Ionia,Michigan,,,,,,,,,,,Central,,64697
 55011,Buffalo,Wisconsin,,,,,,,,,,,Headquarters,,13031
 48421,Sherman,Texas,,,,,,,,,,,West,,3022
@@ -850,8 +850,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 20155,Reno,Kansas,,,,,,,,,,,Central,,61998
 37101,Johnston,North Carolina,,,,,,,,,,,Northeast,,209339
 48217,Hill,Texas,,,,,,,,,,,West,,36649
-47163,Sullivan,Tennessee,,,26,4,,1,,41,,100%,Central,Big South,158348
-26015,Barry,Michigan,,,,1,4,1,,8,,,Central,Central Care,61550
+47163,Sullivan,Tennessee,,,26,,4,1,,4,,100%,Central,Big South,158348
+26015,Barry,Michigan,,,,1,,,,1,,,Central,Central Care,61550
 13179,Liberty,Georgia,,,1,1,9,,,12,,0%,Central,Big South,61435
 31077,Greeley,Nebraska,,,,,,,,,,,Northeast,,2356
 36041,Hamilton,New York,,,,,,,,,,,Northeast,,4416
@@ -865,8 +865,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 47031,Coffee,Tennessee,,,,,,,,,,,Headquarters,,56520
 37073,Gates,North Carolina,,,,,,,,,,,Northeast,,11562
 51141,Patrick,Virginia,,,,,,,,,,,Headquarters,,17608
-42011,Berks,Pennsylvania,,,118,1,22,1,4,211,S. Central PA,0%,Northeast,Freedom,421164
-08045,Garfield,Colorado,,,13,,2,1,,19,,0%,West,Mountain West,60061
+42011,Berks,Pennsylvania,,,118,1,21,1,4,211,S. Central PA,0%,Northeast,Freedom,421164
+08045,Garfield,Colorado,,,13,,3,1,,19,,0%,West,Mountain West,60061
 39163,Vinton,Ohio,,,,,,,,,,,Northeast,,13085
 22113,Vermilion,Louisiana,,,,,,,,,,,Central,,59511
 36073,Orleans,New York,,,,,,,,,,,Northeast,,40352
@@ -881,7 +881,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 02122,Kenai Peninsula Borough,Alaska,,,,,,,,,,,,,58708
 28087,Lowndes,Mississippi,,,,,,,,,,,Northeast,,58595
 39139,Richland,Ohio,,,,,,,,,,,Northeast,,121154
-35013,Doña Ana,New Mexico,,,26,,11,2,,50,,0%,West,Mountain West,218195
+35013,Doña Ana,New Mexico,,,26,,11,2,,5,,0%,West,Mountain West,218195
 39125,Paulding,Ohio,,,,,,,,,,,Northeast,,18672
 50019,Orleans,Vermont,,,7,,,,,7,,,Northeast,WNE,27037
 39073,Hocking,Ohio,,,,,,,,,,,Northeast,,28264
@@ -892,7 +892,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01113,Russell,Alabama,,,,,,,,,,,,,57961
 21195,Pike,Kentucky,,,,,,,,,,,Central,,57876
 01009,Blount,Alabama,,,,,,,,,,,,,57826
-47187,Williamson,Tennessee,,,,,,,,1,,0%,Central,Big South,238412
+47187,Williamson,Tennessee,,,,,9,,,14,,0%,Central,Big South,238412
 48193,Hamilton,Texas,,,,,,,,,,,Headquarters,,8461
 55017,Chippewa,Wisconsin,,,,,,,,,,,Headquarters,,64658
 32017,Lincoln,Nevada,,,,,,,,,,,Northeast,,5183
@@ -925,7 +925,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 37089,Henderson,North Carolina,,,,,,,,,,,Northeast,,117417
 39143,Sandusky,Ohio,,,,,,,,,,,Northeast,,58518
 17195,Whiteside,Illinois,,,,,,,,,,,Central,,55175
-08037,Eagle,Colorado,,,31,,4,2,,52,,0%,West,Mountain West,55127
+08037,Eagle,Colorado,,,32,,4,2,,52,,0%,West,Mountain West,55127
 50023,Washington,Vermont,,,,,,,,,,,West,,58409
 23009,Hancock,Maine,,,,,,,,,,,Central,,54987
 51029,Buckingham,Virginia,,,,,,,,,,,Headquarters,,17148
@@ -933,7 +933,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13039,Camden,Georgia,,,,,,,,1,,100%,Central,Florida,54666
 47085,Humphreys,Tennessee,,,,,,,,,,,Headquarters,,18582
 06109,Tuolumne,California,,,13,,,1,,17,,,West,California,54478
-48397,Rockwall,Texas,,,,,,,,1,,,West,,104915
+48397,Rockwall,Texas,,,,,,,,,,,West,,104915
 20169,Saline,Kansas,,,,,,,,,,,Central,,54224
 21113,Jessamine,Kentucky,,,,,,,,,,,Central,,54115
 47101,Lewis,Tennessee,,,,,,,,,,,Headquarters,,12268
@@ -942,27 +942,27 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 04007,Gila,Arizona,,,,,,,,,,,,,54018
 47041,DeKalb,Tennessee,,,,,,,,,,,Central,,20490
 47117,Marshall,Tennessee,,,,,,,,,,,Headquarters,,34375
-51810,Virginia Beach city,Virginia,,,,,,,,,,,Headquarters,,449974
-17007,Boone,Illinois,,,64,,13,6,3,116,,0%,Central,,53544
+51810,Virginia Beach city,Virginia,,,,,,,,1,,,Headquarters,,449974
+17007,Boone,Illinois,,,,,14,,3,15,,0%,Central,,53544
 39001,Adams,Ohio,,,,,,,,,,,Northeast,,27698
 22099,St. Martin,Louisiana,,,,,,,,,,,Central,,53431
 36033,Franklin,New York,,,,,,,,,,,Northeast,,50022
 47141,Putnam,Tennessee,,,,,,,,,,,Headquarters,,80245
-22089,St. Charles,Louisiana,,,9,,,,,10,,,Central,Big South,53100
+22089,St. Charles,Louisiana,,,9,,,,,1,,,Central,Big South,53100
 51650,Hampton city,Virginia,,,,,,,,,,,Headquarters,,134510
 32005,Douglas,Nevada,,,,,,,,1,,,West,,48905
 48069,Castro,Texas,,,,,,,,,,,Headquarters,,7530
 29167,Polk,Missouri,,,,,,,,,,,Northeast,,32149
 51580,Covington city,Virginia,,,,,,,,,,,Headquarters,,5538
-48257,Kaufman,Texas,,,,,,,,,,,Northeast,NED Cust Care,136154
-41005,Clackamas,Oregon,,Y,104,,36,6,16,238,,100%,West,Portland,418187
+48257,Kaufman,Texas,,,,,,,,1,,,Northeast,NED Cust Care,136154
+41005,Clackamas,Oregon,,Y,,,13,,16,15,,0%,West,Portland,418187
 01031,Coffee,Alabama,,,,,,,,,,,,,52342
 24047,Worcester,Maryland,,,18,,4,2,5,37,,0%,Northeast,Beltway,52276
 26157,Tuscola,Michigan,,,,,,,,,,,Central,,52245
 26027,Cass,Michigan,,,,,,,,,,,Central,,51787
 01071,Jackson,Alabama,,,,,,,,,,,,,51626
 48307,McCulloch,Texas,,,,,,,,,,,West,,7984
-40143,Tulsa,Oklahoma,,,,,,,,,,,West,,651552
+40143,Tulsa,Oklahoma,,,,,,,,1,,,West,,651552
 37061,Duplin,North Carolina,,,,,,,,,,,Northeast,,58741
 19181,Warren,Iowa,,,,,,,,,,,Central,,51466
 55039,Fond du Lac,Wisconsin,,,,,,,,,,,Headquarters,,103403
@@ -975,7 +975,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21073,Franklin,Kentucky,,,,,,,,,,,Central,,50991
 55131,Washington,Wisconsin,,,,,,,,,,,Northeast,,136034
 42117,Tioga,Pennsylvania,,,,,,,,,,,Headquarters,,40591
-17141,Ogle,Illinois,,,,,,,,,,,Central,CD SS/ Div Off,50643
+17141,Ogle,Illinois,,,64,,,8,,12,,,Central,CD SS/ Div Off,50643
 17029,Coles,Illinois,,,,,,,,,,,Central,,50621
 51660,Harrisonburg city,Virginia,,,,,,,,,,,Headquarters,,53016
 23025,Somerset,Maine,,,,,,,,,,,Central,,50484
@@ -994,15 +994,15 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 31013,Box Butte,Nebraska,,,,,,,,,,,Northeast,,10783
 28105,Oktibbeha,Mississippi,,,,,,,,,,,Northeast,,49587
 18029,Dearborn,Indiana,,,15,,,,,17,,,Central,CD SS/ Div Off,49458
-50007,Chittenden,Vermont,,,37,,6,4,3,82,,0%,Northeast,NED Engnr,163774
+50007,Chittenden,Vermont,,,37,,7,4,3,82,,0%,Northeast,NED Engnr,163774
 22101,St. Mary,Louisiana,,,,,,,,,,,Central,,49348
 36055,Monroe,New York,,,,,,1,,3,,,Northeast,,741770
-01045,Dale,Alabama,,,17,,5,,,23,,,,,49172
+01045,Dale,Alabama,,,,,,,,,,,,,49172
 47049,Fentress,Tennessee,,,,,,,,1,,,Headquarters,,18523
 48459,Upshur,Texas,,,,,,,,,,,Headquarters,,41753
 21211,Shelby,Kentucky,,,,,,,,,,,Central,,49024
 26123,Newaygo,Michigan,,,,,,,,,,,Central,,48980
-35007,Colfax,New Mexico,,,1,,,,,1,,,West,,11941
+35007,Colfax,New Mexico,,,,,,,,1,,,West,,11941
 17073,Henry,Illinois,,,,,,,,,,,Central,,48913
 33001,Belknap,New Hampshire,Yes,,,,,,,,,,Northeast,,61303
 32003,Clark,Nevada,,,,,,,,,,,Northeast,,2266715
@@ -1015,8 +1015,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 40079,Le Flore,Oklahoma,,,,,,,,,,,Northeast,,49853
 40009,Beckham,Oklahoma,,,,,,,,,,,Northeast,,21859
 18065,Henry,Indiana,,,,,,,,,,,Central,,47972
-05035,Crittenden,Arkansas,,,,1,2,,,3,,0%,Central,Big South,47955
-53033,King,Washington,,Y,308,8,106,37,24,877,King WA,55%,West,Washington,2252782
+05035,Crittenden,Arkansas,,,1,1,2,,,3,,100%,Central,Big South,47955
+53033,King,Washington,,Y,312,,96,37,24,848,King WA,9%,West,Washington,2252782
 42005,Armstrong,Pennsylvania,,,,,,,,,,,Northeast,,64735
 08043,Fremont,Colorado,,,,,,,,,,,,,47839
 18113,Noble,Indiana,,,,,,,,,,,Central,,47744
@@ -1025,13 +1025,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13175,Laurens,Georgia,,,3,,,,,4,,,Central,Big South,47546
 48255,Karnes,Texas,,,,,,,,,,,West,,15601
 22115,Vernon,Louisiana,,,,,,,,,,,Central,,47429
-51036,Charles City,Virginia,,,,,9,,,11,,,Headquarters,,6963
+51036,Charles City,Virginia,,,,,,,,,,,Headquarters,,6963
 22087,St. Bernard,Louisiana,,,,,,,,,,,Central,,47244
 36015,Chemung,New York,,,,,,,,,,,Northeast,,83456
 36037,Genesee,New York,,,,,,,,,,,Northeast,,57280
 27007,Beltrami,Minnesota,,,,,,,,,,,Central,,47188
 37007,Anson,North Carolina,,,,,,,,,,,Northeast,,24446
-40109,Oklahoma,Oklahoma,,,,,,,,,,,West,,797434
+40109,Oklahoma,Oklahoma,,,,,,,,3,,,West,,797434
 16011,Bingham,Idaho,,,,,,,,,,,Central,,46811
 22061,Lincoln,Louisiana,,,,,,,,,,,Central,,46742
 21019,Boyd,Kentucky,,,,,,,,,,,Central,,46718
@@ -1049,11 +1049,11 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21179,Nelson,Kentucky,,,,,,,,,,,Central,,46233
 22117,Washington,Louisiana,,,,,,,,,,,Central,,46194
 42083,McKean,Pennsylvania,,,,,,,,2,,,Northeast,,40625
-36001,Albany,New York,,,2,15,,7,,114,,,Headquarters,,305506
+36001,Albany,New York,,,,9,,1,,46,,,Headquarters,,305506
 06009,Calaveras,California,,,13,,,,,15,,,West,California,45905
 37115,Madison,North Carolina,,,,,,,,,,,Northeast,,21755
 16017,Bonner,Idaho,,,,,,,,,,,Central,,45739
-53061,Snohomish,Washington,,,147,358,28,22,,1146,,50%,West,WD SS/ Div Off,822083
+53061,Snohomish,Washington,,,147,361,28,23,,116,,0%,West,WD SS/ Div Off,822083
 39087,Lawrence,Ohio,,,,,,,,,,,Northeast,,59463
 12039,Gadsden,Florida,,,,,,,,,,,,,45660
 39007,Ashtabula,Ohio,,,,,,,,,,,Northeast,,97241
@@ -1076,7 +1076,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13009,Baldwin,Georgia,,,,,,,,,,,Central,,44890
 37149,Polk,North Carolina,,,,,,,,,,,Northeast,,20724
 29027,Callaway,Missouri,,,,,,,,,,,Northeast,,44743
-39093,Lorain,Ohio,,,,2,,,,3,,,Central,Central Care,309833
+39093,Lorain,Ohio,,,,1,,,,3,,,Central,Central Care,309833
 18145,Shelby,Indiana,,,,,,,,,,,Central,,44729
 21107,Hopkins,Kentucky,,,,,,,,1,,,Headquarters,,44686
 29159,Pettis,Missouri,,,,,,,,,,,Northeast,,42339
@@ -1113,7 +1113,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 55027,Dodge,Wisconsin,,,,,,,,,,,Headquarters,,87839
 33017,Strafford,New Hampshire,,,,,,,,,,0%,Northeast,,130633
 40133,Seminole,Oklahoma,,,,,,,,,,,Northeast,,24258
-40037,Creek,Oklahoma,,,,,,,,1,,,Northeast,,71522
+40037,Creek,Oklahoma,,,,,,,,,,,Northeast,,71522
 37055,Dare,North Carolina,,,,,,,,,,,Northeast,,37009
 22095,St. John the Baptist,Louisiana,,,,,,,,1,,,Headquarters,,42837
 08085,Montrose,Colorado,,,,,,,,,,,,,42758
@@ -1128,9 +1128,9 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 56033,Sheridan,Wyoming,,,,,,,,,,,Northeast,,30485
 29157,Perry,Missouri,,,,,,,,,,,Northeast,,19136
 53043,Lincoln,Washington,,,,,,,,,,,Headquarters,,10939
-50021,Rutland,Vermont,,,16,,6,1,1,28,,0%,Northeast,NED Engnr,58191
-47047,Fayette,Tennessee,,,,,,,,,,,Central,Big South,41133
-12093,Okeechobee,Florida,,,,,,,,,,,Central,,42168
+50021,Rutland,Vermont,,,17,,6,1,1,28,,0%,Northeast,NED Engnr,58191
+47047,Fayette,Tennessee,,,4,,,,,,,,Central,Big South,41133
+12093,Okeechobee,Florida,,,6,,4,,,1,,,Central,,42168
 49039,Sanpete,Utah,,,,,,,,,,,West,,30939
 39047,Fayette,Ohio,,,,,,,,,,,Northeast,,28525
 12051,Hendry,Florida,,,,,,,,,,,,,42022
@@ -1139,7 +1139,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48455,Trinity,Texas,,,,,,,,,,,Headquarters,,14651
 40131,Rogers,Oklahoma,,,,,,,,,,,Northeast,,92459
 48477,Washington,Texas,,,,,,,,,,,Headquarters,,35882
-12075,Levy,Florida,,,,,,,,,,100%,Central,Florida,41503
+12075,Levy,Florida,,,3,,,,,4,,100%,Central,Florida,41503
 39029,Columbiana,Ohio,,,,,,,,,,,Northeast,,101883
 54065,Morgan,West Virginia,,,,,,,,,,,Headquarters,,17884
 47173,Union,Tennessee,,,,,,,,,,,Headquarters,,19972
@@ -1168,10 +1168,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 42105,Potter,Pennsylvania,,,,,,,,1,,,Northeast,,16526
 01123,Tallapoosa,Alabama,,,,,,,,,,,,,40367
 36069,Ontario,New York,,,,,,,,,,,Northeast,,109777
-55071,Manitowoc,Wisconsin,,,6,,3,,,11,,0%,West,,78981
+55071,Manitowoc,Wisconsin,,,,,4,,,1,,0%,West,,78981
 42111,Somerset,Pennsylvania,,,,,,,,,,,Headquarters,,73447
 13219,Oconee,Georgia,,,,,,,,,,,Central,,40280
-41003,Benton,Oregon,,,31,,12,1,1,54,,100%,West,Portland,93053
+41003,Benton,Oregon,,,31,,12,1,1,54,,0%,West,Portland,93053
 51185,Tazewell,Virginia,,,,,,,,,,,Headquarters,,40595
 22009,Avoyelles,Louisiana,,,,,,,,,,,Central,,40144
 29091,Howell,Missouri,,,,,,,,,,,Northeast,,40117
@@ -1198,7 +1198,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21035,Calloway,Kentucky,,,,,,,,,,,Central,,39001
 19057,Des Moines,Iowa,,,,,,,,,,,Central,,38967
 35037,Quay,New Mexico,,,,,,,,,,,Northeast,,8253
-39017,Butler,Ohio,,,,1,,29,,307,,,Northeast,,383134
+39017,Butler,Ohio,,,,1,,28,,35,,,Northeast,,383134
 55139,Winnebago,Wisconsin,,,,,,,,,,,Northeast,,171907
 39055,Geauga,Ohio,,,,,,,,,,,Northeast,,93649
 46009,Bon Homme,South Dakota,,,,,,,,,,,Headquarters,,6901
@@ -1210,7 +1210,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 40107,Okfuskee,Oklahoma,,,,,,,,,,,Northeast,,11993
 17203,Woodford,Illinois,,,,,,,,,,,Central,,38459
 45069,Marlboro,South Carolina,,,,,,,,,,,Headquarters,,26118
-42027,Centre,Pennsylvania,,,40,,8,2,2,74,,50%,Northeast,Keystone,162385
+42027,Centre,Pennsylvania,,,4,,8,2,2,74,,50%,Northeast,Keystone,162385
 29107,Lafayette,Missouri,,,,,,,,,,,Northeast,,32708
 51145,Powhatan,Virginia,,,,,,,,,,,Headquarters,,29652
 22119,Webster,Louisiana,,,,,,,,,,,Central,,38340
@@ -1224,7 +1224,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 55079,Milwaukee,Wisconsin,,,,1,,,,1,,,Central,Central Care,945726
 48045,Briscoe,Texas,,,,,,,,,,,Headquarters,,1546
 05063,Independence,Arkansas,,,,,,,,,,,,,37825
-18017,Cass,Indiana,,,50,,13,,3,76,,,Central,Heartland,37689
+18017,Cass,Indiana,,,12,,,,3,13,,,Central,Heartland,37689
 17081,Jefferson,Illinois,,,,,,,,,,,Central,,37684
 45025,Chesterfield,South Carolina,,,,,,,,,,,Headquarters,,45650
 37193,Wilkes,North Carolina,,,,,,,,,,,Northeast,,68412
@@ -1238,7 +1238,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 51830,Williamsburg city,Virginia,,,,,,,,,,,Headquarters,,14954
 26033,Chippewa,Michigan,,,,,,,,,,,Central,,37349
 51640,Galax city,Virginia,,,,,,,,,,,Headquarters,,6347
-21083,Graves,Kentucky,,,28,,13,1,,52,,,Central,,37266
+21083,Graves,Kentucky,,,,,,,,,,,Central,,37266
 17121,Marion,Illinois,,,,,,,,,,,Central,,37205
 01047,Dallas,Alabama,,,,,,,,,,,,,37196
 19099,Jasper,Iowa,,,,,,,,,,,Central,,37185
@@ -1250,7 +1250,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01039,Covington,Alabama,,,,,,,,,,,,,37049
 37051,Cumberland,North Carolina,,,,,,,,,,,Northeast,,335509
 55041,Forest,Wisconsin,,,,,,,,,,,Headquarters,,9004
-28003,Alcorn,Mississippi,,,3,7,,,,10,,,Central,Big South,36953
+28003,Alcorn,Mississippi,,,3,7,,,,1,,,Central,Big South,36953
 36029,Erie,New York,,,,,,,,1,,,Northeast,,918702
 49053,Washington,Utah,,,,,,,1,1,,,West,,177556
 39167,Washington,Ohio,,,,,,,,,,,Northeast,,59911
@@ -1266,7 +1266,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 20055,Finney,Kansas,,,,,,,,,,,Central,,36467
 21235,Whitley,Kentucky,,,,,,,,,,,Central,,36264
 21049,Clark,Kentucky,,,,,,,,,,,Central,,36263
-42055,Franklin,Pennsylvania,,,,,6,,,8,,0%,Northeast,Keystone,155027
+42055,Franklin,Pennsylvania,,,,,7,,,8,,0%,Northeast,Keystone,155027
 39123,Ottawa,Ohio,,,,,,,,,,,Northeast,,40525
 47025,Claiborne,Tennessee,,,,,,,,,,,Headquarters,,31959
 19187,Webster,Iowa,,,,,,,,1,,,Headquarters,,35904
@@ -1279,7 +1279,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 26041,Delta,Michigan,,,,,,,,,,,Central,,35784
 18001,Adams,Indiana,,,,,,,,,,,Central,,35777
 13299,Ware,Georgia,,,,,,,,,,,Central,,35734
-49043,Summit,Utah,,,9,,2,,,12,,0%,West,Mountain West,42145
+49043,Summit,Utah,,,9,,3,,,12,,0%,West,Mountain West,42145
 26061,Houghton,Michigan,,,,,,,,,,,Central,,35684
 29217,Vernon,Missouri,,,,,,,,,,,Northeast,,20563
 17105,Livingston,Illinois,,,,,,,,,,,Central,,35648
@@ -1289,7 +1289,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48237,Jack,Texas,,,,,,,,,,,West,,8935
 18103,Miami,Indiana,,,,,,,,,,,Central,,35516
 48143,Erath,Texas,,,,,,,,,,,Headquarters,,42698
-49057,Weber,Utah,,,,,,,,,,,West,WD SS/ Div Off,260213
+49057,Weber,Utah,,,2,,,,,2,,,West,WD SS/ Div Off,260213
 39113,Montgomery,Ohio,,,,,,,,,,,Northeast,,531687
 28093,Marshall,Mississippi,,,,,,,,,,,Northeast,,35294
 28095,Monroe,Mississippi,,,,,,,,,,,Northeast,,35252
@@ -1319,7 +1319,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 20121,Miami,Kansas,,,,,,,,1,,,West,,34237
 28107,Panola,Mississippi,,,,,,,,,,,Northeast,,34192
 28085,Lincoln,Mississippi,,,,,,,,,,,Northeast,,34153
-17103,Lee,Illinois,,,15,,,,,16,,,Central,,34096
+17103,Lee,Illinois,,,,,,,,16,,,Central,,34096
 49047,Uintah,Utah,,,,,,,,,,,West,,35734
 51149,Prince George,Virginia,,,2,,,,,3,,,Northeast,Beltway,38353
 36095,Schoharie,New York,,,,,,,,,,,Northeast,,30999
@@ -1339,7 +1339,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 18073,Jasper,Indiana,,,,,,,,,,,Central,,33562
 31139,Pierce,Nebraska,,,,,,,,,,,Northeast,,7148
 54073,Pleasants,West Virginia,,,,,,,,,,,Headquarters,,7460
-51015,Augusta,Virginia,,,21,,,,,36,,,Northeast,Beltway,75558
+51015,Augusta,Virginia,,,22,,,,,36,,,Northeast,Beltway,75558
 26047,Emmet,Michigan,,,,,,,,,,,Central,,33415
 24011,Caroline,Maryland,,,,,,,,,,,Central,,33406
 48185,Grimes,Texas,,,,,,,,,,,Headquarters,,28880
@@ -1368,13 +1368,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 50025,Windham,Vermont,,,,,,,,,,,West,,42222
 18077,Jefferson,Indiana,,,,,,,,,,,Central,,32308
 17021,Christian,Illinois,,,,,,,,,,,Central,,32304
-45019,Charleston,South Carolina,,,93,180,14,13,6,527,,33%,Central,Big South,411406
-53027,Grays Harbor,Washington,,,23,,10,,1,39,,0%,West,Washington,75061
+45019,Charleston,South Carolina,,,95,41,28,13,6,373,,100%,Central,Big South,411406
+53027,Grays Harbor,Washington,,,23,,1,,1,39,,0%,West,Washington,75061
 28115,Pontotoc,Mississippi,,,,,,,,,,,Northeast,,32174
 29165,Platte,Missouri,,,,,,,,,,,Northeast,,104418
 54041,Lewis,West Virginia,,,,,,,,,,,Headquarters,,15907
 02110,Juneau City and Borough,Alaska,,,,,,,,,,,,,31974
-47021,Cheatham,Tennessee,,,96,201,20,1,24,612,,,Central,,40667
+47021,Cheatham,Tennessee,,,,,,,24,1,,,Central,,40667
 29207,Stoddard,Missouri,,,,,,,,,,,Northeast,,29025
 24019,Dorchester,Maryland,,,,,,,,,,,Central,,31929
 18055,Greene,Indiana,,,,,,,,,,,Central,Heartland,31922
@@ -1387,7 +1387,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 23029,Washington,Maine,,,,,,,,,,,Central,,31379
 13123,Gilmer,Georgia,,,,,,,,,,,Central,,31369
 22053,Jefferson Davis,Louisiana,,,,,,,,,,,Central,,31368
-39061,Hamilton,Ohio,,,,,,,,,,,Headquarters,,817473
+39061,Hamilton,Ohio,,,,,,,,1,,,Headquarters,,817473
 27119,Polk,Minnesota,,,,,,,,,,,Central,,31364
 38055,McLean,North Dakota,,,,,,,,,,,Northeast,,9450
 30111,Yellowstone,Montana,,,,,,,,,,,Northeast,,161300
@@ -1400,9 +1400,9 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 08117,Summit,Colorado,,,,,,,6,8,,,West,,31011
 36091,Saratoga,New York,,Y,,,,,,,,,Northeast,,229863
 18169,Wabash,Indiana,,,,,,,,,,,Central,,30996
-26063,Huron,Michigan,,,11,,,,,20,,,Central,CD SS/ Div Off,30981
+26063,Huron,Michigan,,,11,,,,,2,,,Central,CD SS/ Div Off,30981
 26035,Clare,Michigan,,,,,,,,,,,Central,,30950
-49035,Salt Lake,Utah,,Y,163,9,45,33,9,864,Salt Lake Area,25%,West,Mountain West,1160437
+49035,Salt Lake,Utah,,Y,164,,48,33,9,864,Salt Lake Area,0%,West,Mountain West,1160437
 55109,St. Croix,Wisconsin,,,,,,,,1,,,West,,90687
 13311,White,Georgia,,,,,,,,,,,Central,,30798
 51530,Buena Vista city,Virginia,,,,,,,,,,,Headquarters,,6478
@@ -1428,8 +1428,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48063,Camp,Texas,,,,,,,,,,,Headquarters,,13094
 50001,Addison,Vermont,,,,,,,,,,,West,,36777
 13177,Lee,Georgia,,,,,,,,,,,Central,,29992
-13305,Wayne,Georgia,,,,1,,,,1,,100%,Central,,29927
-42043,Dauphin,Pennsylvania,,,55,544,10,37,,806,S. Central PA,0%,Northeast,Keystone,278299
+13305,Wayne,Georgia,,,,,2,,,1,,100%,Central,,29927
+42043,Dauphin,Pennsylvania,,,56,547,1,37,,87,S. Central PA,0%,Northeast,Keystone,278299
 39049,Franklin,Ohio,,,,,,,,,,,Northeast,,1316756
 13195,Madison,Georgia,,,,,,,,,,,Central,,29880
 16051,Jefferson,Idaho,,,,,,,,,,,Central,,29871
@@ -1438,13 +1438,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 27021,Cass,Minnesota,,,,,,,1,2,,,West,,29779
 01093,Marion,Alabama,,,,,,,,,,,,,29709
 28163,Yazoo,Mississippi,,,,,,,,,,,Northeast,,29690
-17109,McDonough,Illinois,,,13,,,,,14,,,Central,,29682
+17109,McDonough,Illinois,,,,,,,,14,,,Central,,29682
 51735,Poquoson city,Virginia,,,,,,,,,,,Headquarters,,12271
 55117,Sheboygan,Wisconsin,,,,,,,,,,,Northeast,,115340
 27115,Pine,Minnesota,,,,,,,,,,,Central,,29579
 13261,Sumter,Georgia,,,,,,,,,,,Central,,29524
-47051,Franklin,Tennessee,,,2,2,,,,4,,100%,Central,Big South,42208
-12003,Baker,Florida,,,175,558,44,38,12,1097,,,,,29210
+47051,Franklin,Tennessee,,,2,,2,,,4,,100%,Central,Big South,42208
+12003,Baker,Florida,,,,,,,12,,,,,,29210
 56025,Natrona,Wyoming,,,,,,,,,,,Northeast,,79858
 48359,Oldham,Texas,,,,,,,,,,,West,,2112
 26105,Mason,Michigan,,,,,,,,,,,Central,,29144
@@ -1453,7 +1453,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 08087,Morgan,Colorado,,,,,,,,,,,,,29068
 51620,Franklin city,Virginia,,,,,,,,,,,Headquarters,,7967
 29186,Ste. Genevieve,Missouri,,,,,,,,,,,Northeast,,17894
-24023,Garrett,Maryland,,,19,,,,,21,,,Northeast,Keystone,29014
+24023,Garrett,Maryland,,,19,,,,,,,,Northeast,Keystone,29014
 40035,Craig,Oklahoma,,,,,,,,,,,Northeast,,14142
 47111,Macon,Tennessee,,,,,,,,,,,Headquarters,,24602
 50013,Grand Isle,Vermont,,,,,,,,,,,West,,7235
@@ -1510,17 +1510,17 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 47181,Wayne,Tennessee,,,,,,,,,,,Headquarters,,16673
 45083,Spartanburg,South Carolina,,,,,,,,,,,Headquarters,,319785
 35045,San Juan,New Mexico,,,14,,11,,1,31,,0%,West,Mountain West,123958
-51061,Fauquier,Virginia,,,16,,,,,17,,,Headquarters,,71222
+51061,Fauquier,Virginia,,,,,,,,,,,Headquarters,,71222
 45033,Dillon,South Carolina,,,,,,,,,,,Headquarters,,30479
 37005,Alleghany,North Carolina,,,,,,,,,,,Northeast,,11137
-37119,Mecklenburg,North Carolina,,,,,,,,1,,,Northeast,NED Cust Care,1110356
+37119,Mecklenburg,North Carolina,,,,,,,,2,,,Northeast,NED Cust Care,1110356
 17075,Iroquois,Illinois,,,,,,,,,,,Central,,27114
 21141,Logan,Kentucky,,,,,,,,,,,Central,,27102
 50015,Lamoille,Vermont,,,,,,,,,,,West,,25362
 41053,Polk,Oregon,,,,,,,,,,,Northeast,,86085
 39065,Hardin,Ohio,,,,,,,,,,,Northeast,,31365
 35015,Eddy,New Mexico,,,,,,,,,,,Northeast,,58460
-48167,Galveston,Texas,,,92,,16,,,127,,0%,West,Houston,342139
+48167,Galveston,Texas,,,94,,16,,,127,,0%,West,Houston,342139
 12049,Hardee,Florida,,,,,,,,,,,,,26937
 39015,Brown,Ohio,,,,,,,,,,,Northeast,,43432
 54047,McDowell,West Virginia,,,,,,,,,,,Headquarters,,17624
@@ -1539,7 +1539,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 51163,Rockbridge,Virginia,,,5,,,,,5,,,Northeast,Beltway,22573
 05071,Johnson,Arkansas,,,,,,,,,,,,,26578
 18031,Decatur,Indiana,,,,,,,,,,,Central,,26559
-54049,Marion,West Virginia,,,,,,,,,,0%,Northeast,Keystone,56072
+54049,Marion,West Virginia,,,31,,6,1,,47,,0%,Northeast,Keystone,56072
 26127,Oceana,Michigan,,,,,,,,,,,Central,,26467
 22121,West Baton Rouge,Louisiana,,,,,,,,,,,Central,,26465
 21085,Grayson,Kentucky,,,,,,,,,,,Central,,26427
@@ -1547,12 +1547,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13293,Upson,Georgia,,,,,,,,,,,Central,,26320
 36045,Jefferson,New York,,,,,,,,,,,Northeast,,109834
 27095,Mille Lacs,Minnesota,,,,,,,,,,,Central,,26277
-01061,Geneva,Alabama,,,,,,,,,,0%,Central,,26271
+01061,Geneva,Alabama,,,,,5,,,23,,100%,Central,,26271
 31023,Butler,Nebraska,,,,,,,,,,,Northeast,,8016
 19015,Boone,Iowa,,,,,,,,,,,Central,,26234
 18021,Clay,Indiana,,,,,,,,,,,Central,,26225
 13147,Hart,Georgia,,,,,,,,,,,Central,,26205
-01019,Cherokee,Alabama,,,,,,,,,,0%,Central,Big South,26196
+01019,Cherokee,Alabama,,,22,,4,1,,34,,0%,Central,Big South,26196
 13111,Fannin,Georgia,,,,,,,,,,,Central,,26188
 08083,Montezuma,Colorado,,,,,,,,,,,,,26183
 26029,Charlevoix,Michigan,,,,,,,,,,,Central,,26143
@@ -1565,10 +1565,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21217,Taylor,Kentucky,,,,,,,,,,,Central,,25769
 21193,Perry,Kentucky,,,,,,,,,,,Central,,25758
 47119,Maury,Tennessee,,,,,,,,,,,Headquarters,,96387
-47065,Hamilton,Tennessee,,,66,2,8,2,6,119,,50%,Central,Big South,367804
-19011,Benton,Iowa,,,,1,,,,1,,,Central,,25645
+47065,Hamilton,Tennessee,,,66,,13,2,6,118,,50%,Central,Big South,367804
+19011,Benton,Iowa,,,,,,,,,,,Central,,25645
 08107,Routt,Colorado,,,8,,1,,,11,,0%,West,Mountain West,25638
-47093,Knox,Tennessee,,,,,,,,2,,0%,Central,Big South,470313
+47093,Knox,Tennessee,,,76,325,18,13,,61,,0%,Central,Big South,470313
 22003,Allen,Louisiana,,,,,,,,,,,Central,,25627
 29119,McDonald,Missouri,,,,,,,,,,,Northeast,,22837
 24039,Somerset,Maryland,,,,,,,,1,,,Headquarters,,25616
@@ -1598,14 +1598,14 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 27015,Brown,Minnesota,,,,,,,,,,,Central,,25008
 05123,St. Francis,Arkansas,,,,,,,,,,,,,24994
 13035,Butts,Georgia,,,,,,,,,,,Central,,24936
-51177,Spotsylvania,Virginia,,,,,,,,,,100%,Northeast,Beltway,136215
+51177,Spotsylvania,Virginia,,,,,8,,,9,,100%,Northeast,Beltway,136215
 05023,Cleburne,Arkansas,,,,,,,,1,,,Headquarters,,24919
 36119,Westchester,New York,,,,,,,,1,,,Northeast,,967506
 32510,Carson City,Nevada,,,,,,,,,,,Northeast,,55916
 22067,Morehouse,Louisiana,,,,,,,,,,,Central,,24874
 48325,Medina,Texas,,,,,,,,,,,West,,51584
 13055,Chattooga,Georgia,,,,,,,,,,,Central,,24789
-42063,Indiana,Pennsylvania,,,40,,,,,53,,,Northeast,Keystone,84073
+42063,Indiana,Pennsylvania,,,42,,,,,53,,,Northeast,Keystone,84073
 29173,Ralls,Missouri,,,,,,,,,,,Northeast,,10309
 29219,Warren,Missouri,,,,,,,,,,,Northeast,,35649
 01005,Barbour,Alabama,,,,,,,,,,,,,24686
@@ -1620,7 +1620,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21137,Lincoln,Kentucky,,,,,,,,,,,Central,,24549
 40059,Harper,Oklahoma,,,,,,,,,,,Northeast,,3688
 44007,Providence,Rhode Island,,,,,,,,2,,,Northeast,,638931
-13291,Union,Georgia,,,,,,,,,,,Northeast,,24511
+13291,Union,Georgia,,,,21,,126,,549,,,Northeast,,24511
 28039,George,Mississippi,,,,,,,,,,,Central,,24500
 54063,Monroe,West Virginia,,,,,,,,,,,Headquarters,,13275
 21205,Rowan,Kentucky,,,,,,,,,,,Central,,24460
@@ -1658,7 +1658,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48289,Leon,Texas,,,,,,,,,,,West,,17404
 54055,Mercer,West Virginia,,,14,,1,,,16,,100%,Northeast,Beltway,58758
 51097,King and Queen,Virginia,,,,,,,,,,,Headquarters,,7025
-28057,Itawamba,Mississippi,,,20,,7,1,4,43,,0%,Central,Big South,23390
+28057,Itawamba,Mississippi,,,,,7,,4,9,,0%,Central,Big South,23390
 05103,Ouachita,Arkansas,,,,,,,,,,,,,23382
 41023,Grant,Oregon,,,,,,,,,,,Northeast,,7199
 13119,Franklin,Georgia,,,,,,,,,,,Central,,23349
@@ -1692,11 +1692,11 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 51187,Warren,Virginia,,,,,,,,,,,Headquarters,,40164
 37029,Camden,North Carolina,,,,,,,,,,,Northeast,,10867
 51199,York,Virginia,,,,,,,,,,,Headquarters,,68280
-51161,Roanoke,Virginia,,,18,,,,,25,,,Northeast,Beltway,94186
+51161,Roanoke,Virginia,,,17,,,,,26,,,Northeast,Beltway,94186
 51089,Henry,Virginia,,,,,,,,,,,Headquarters,,50557
-53045,Mason,Washington,,,68,1,17,6,,118,,0%,West,Washington,66768
+53045,Mason,Washington,,,69,,18,7,,116,,0%,West,Washington,66768
 37113,Macon,North Carolina,,,,,,,,,,,Northeast,,35858
-53035,Kitsap,Washington,,,47,1,9,1,,71,,0%,West,Washington,271473
+53035,Kitsap,Washington,,,48,,9,1,,71,,0%,West,Washington,271473
 08075,Logan,Colorado,,,,,,,,,,,,,22409
 01007,Bibb,Alabama,,,,,,,,,,,,,22394
 22043,Grant,Louisiana,,,,,,,,,,,Central,,22389
@@ -1713,7 +1713,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 22111,Union,Louisiana,,,,,,,,,,,Central,,22108
 19123,Mahaska,Iowa,,,,,,,,,,,Central,,22095
 29145,Newton,Missouri,,,,,,,,,,,Northeast,,58236
-47147,Robertson,Tennessee,,,,1,,,,1,,100%,Central,Big South,71813
+47147,Robertson,Tennessee,,,,,2,,,1,,100%,Central,Big South,71813
 28139,Tippah,Mississippi,,,,,,,,,,,Northeast,,22015
 19183,Washington,Iowa,,,,,,,,,,,Central,,21965
 54005,Boone,West Virginia,,,,,,,,,,,Headquarters,,21457
@@ -1722,26 +1722,26 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48175,Goliad,Texas,,,,,,,,,,,Headquarters,,7658
 13205,Mitchell,Georgia,,,,,,,,,,,Central,,21863
 40005,Atoka,Oklahoma,,,,,,,,,,,Northeast,,13758
-29083,Henry,Missouri,,,,,,,,,,,Northeast,,21824
+29083,Henry,Missouri,,,,,,,,1,,,Northeast,,21824
 48295,Lipscomb,Texas,,,,,,,,,,,West,,3233
 17083,Jersey,Illinois,,,,,,,,,,,Central,,21773
 39171,Williams,Ohio,,,,,,,,,,,Northeast,,36692
 26089,Leelanau,Michigan,,,,,,,,,,,Central,,21761
 37109,Lincoln,North Carolina,,,,,,,,,,,Northeast,,86111
 22077,Pointe Coupee,Louisiana,,,,,,,,,,,Central,,21730
-48453,Travis,Texas,,Y,,,,1,,3,,,West,,1273954
+48453,Travis,Texas,,Y,,,,1,,113,,,West,,1273954
 17173,Shelby,Illinois,,,,,,,,,,,Central,,21634
 27105,Nobles,Minnesota,,,,,,,,,,,Central,,21629
 27157,Wabasha,Minnesota,,,,,,,,,,,Central,,21627
 49037,San Juan,Utah,,,,,,,,,,,West,,15308
 31153,Sarpy,Nebraska,,,,,,,,,,,Northeast,,187196
-12123,Taylor,Florida,,,,,,,,,,100%,Central,,21569
+12123,Taylor,Florida,,,,,1,,,,,100%,Central,,21569
 51167,Russell,Virginia,,,,,,,,,,,Headquarters,,26586
 21133,Letcher,Kentucky,,,,,,,,,,,Central,,21553
 06011,Colusa,California,,,,,,,,,,,,,21547
 05057,Hempstead,Arkansas,,,,,,,,,,,,,21532
 31065,Furnas,Nebraska,,,,,,,,,,,Northeast,,4676
-48085,Collin,Texas,,,,1,,3,,21,,,Central,Central Care,1034730
+48085,Collin,Texas,,,,,,1,,12,,,Central,Central Care,1034730
 48161,Freestone,Texas,,,,,,,,,,,Headquarters,,19717
 05083,Logan,Arkansas,,,,,,,,,,,,,21466
 54001,Barbour,West Virginia,,,,,,,,,,,Headquarters,,16441
@@ -1784,7 +1784,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 29139,Montgomery,Missouri,,,,,,,,,,,Northeast,,11551
 13091,Dodge,Georgia,,,,,,,,,,,Central,,20605
 29213,Taney,Missouri,,,,,,,,,,,Northeast,,55928
-47035,Cumberland,Tennessee,,,,,,,,,,100%,Central,Big South,60520
+47035,Cumberland,Tennessee,,,3,,1,,,4,,100%,Central,Big South,60520
 21027,Breckinridge,Kentucky,,,,,,,,,,,Central,,20477
 45077,Pickens,South Carolina,,,,,,,,,,,Headquarters,,126884
 49003,Box Elder,Utah,,,,,,,,,,,Headquarters,,56046
@@ -1798,7 +1798,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21231,Wayne,Kentucky,,,,,,,,,,,Central,,20333
 48159,Franklin,Texas,,,,,,,,,,,Headquarters,,10725
 18147,Spencer,Indiana,,,,,,,,,,,Central,,20277
-18015,Carroll,Indiana,,,54,,13,,2,83,,100%,Central,CD SS/ Div Off,20257
+18015,Carroll,Indiana,,,54,,13,,2,83,,0%,Central,CD SS/ Div Off,20257
 13321,Worth,Georgia,,,,,,,,,,,Central,,20247
 56037,Sweetwater,Wyoming,,,,,,,,,,,Northeast,,42343
 56041,Uinta,Wyoming,,,,,,,,,,,Northeast,,20226
@@ -1806,7 +1806,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 40147,Washington,Oklahoma,,,,,,,,,,,Northeast,,51527
 28153,Wayne,Mississippi,,,,,,,,,,,Northeast,,20183
 19027,Carroll,Iowa,,,,,,,,,,,Central,,20165
-48113,Dallas,Texas,,Y,,,,,,2,,,Central,Central Care,2635516
+48113,Dallas,Texas,,Y,,1,,2,,12,,,Central,Central Care,2635516
 47155,Sevier,Tennessee,,,12,,,,,13,,,Central,Big South,98250
 48279,Lamb,Texas,,,,,,,,,,,West,,12893
 22083,Richland,Louisiana,,,,,,,,,,,Central,,20122
@@ -1826,12 +1826,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01107,Pickens,Alabama,,,,,,,,,,,,,19930
 21051,Clay,Kentucky,,,,,,,,,,,Central,,19901
 56019,Johnson,Wyoming,,,,,,,,,,,Northeast,,8445
-51075,Goochland,Virginia,,,,,,,,,,0%,Northeast,Beltway,23753
+51075,Goochland,Virginia,,,,,9,,,41,,0%,Northeast,Beltway,23753
 48331,Milam,Texas,,,,,,,,,,,West,,24823
-21017,Bourbon,Kentucky,,,,,,,,1,,,Central,,19788
+21017,Bourbon,Kentucky,,,,,,,,,,,Central,,19788
 46029,Codington,South Dakota,,,,,,,,,,,Headquarters,,28009
 37181,Vance,North Carolina,,,,,,,,,,,Northeast,,44535
-48157,Fort Bend,Texas,,Y,853,665,89,139,30,2490,,0%,West,Houston,811688
+48157,Fort Bend,Texas,,Y,135,,33,14,3,293,,33%,West,Houston,811688
 27091,Martin,Minnesota,,,,,,,,,,,Central,,19683
 05003,Ashley,Arkansas,,,,,,,1,1,,,,,19657
 19065,Fayette,Iowa,,,,,,,,,,,Central,,19650
@@ -1848,11 +1848,11 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01013,Butler,Alabama,,,,,,,,,,,,,19448
 29015,Benton,Missouri,,,,,,,,,,,Northeast,,19443
 19097,Jackson,Iowa,,,,,,,,,,,Central,,19439
-24029,Kent,Maryland,,,,,,,,,,,Northeast,,19422
+24029,Kent,Maryland,,,,,,,,41,,,Northeast,,19422
 13019,Berrien,Georgia,,,,,,,,,,,Central,,19397
 28141,Tishomingo,Mississippi,,,,,,,,,,,Northeast,,19383
 21215,Spencer,Kentucky,,,,,,,,,,,Central,,19351
-28025,Clay,Mississippi,,,,,,,,,,,Central,Big South,19316
+28025,Clay,Mississippi,,,2,,,,,,,,Central,Big South,19316
 13211,Morgan,Georgia,,,,,,,,,,,Central,,19276
 21155,Marion,Kentucky,,,,,,,,,,,Central,,19273
 22029,Concordia,Louisiana,,,,,,,,,,,Central,,19259
@@ -1875,10 +1875,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 08093,Park,Colorado,,,,,,,,,,,,,18845
 06063,Plumas,California,,,,,,,,,,,,,18807
 47189,Wilson,Tennessee,,,,,,,,,,,Headquarters,,144657
-48029,Bexar,Texas,,,,,,,,,,,Central,CD SS/ Div Off,2003554
+48029,Bexar,Texas,,,,1,,,,5,,,Central,CD SS/ Div Off,2003554
 39121,Noble,Ohio,,,,,,,,,,,Northeast,,14424
 17033,Crawford,Illinois,,,,,,,,,,,Central,,18667
-28031,Covington,Mississippi,,,25,1,9,1,4,49,Central MS,0%,Central,Big South,18636
+28031,Covington,Mississippi,,,26,1,1,1,4,48,Central MS,0%,Central,Big South,18636
 19031,Cedar,Iowa,,,,,,,,,,,Central,,18627
 27161,Waseca,Minnesota,,,,,,,,,,,Central,,18612
 27055,Houston,Minnesota,,,,,,,,,,,Central,,18600
@@ -1888,7 +1888,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48115,Dawson,Texas,,,,,,,,,,,Headquarters,,12728
 47045,Dyer,Tennessee,,,,,,,,,,,Central,,37159
 19157,Poweshiek,Iowa,,,,,,,,,,,Central,,18504
-35039,Rio Arriba,New Mexico,,,26,,8,1,,44,,,Northeast,,38921
+35039,Rio Arriba,New Mexico,,,,,,,,1,,,Northeast,,38921
 12079,Madison,Florida,,,,,,,,,,,,,18493
 20041,Dickinson,Kansas,,,,,,,,,,,Central,,18466
 45091,York,South Carolina,,,,,,,,,,,Headquarters,,280979
@@ -1897,13 +1897,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13001,Appling,Georgia,,,,,,,,,,,Central,,18386
 48129,Donley,Texas,,,,,,,,,,,Headquarters,,3278
 28131,Stone,Mississippi,,,,,,,,,,,Northeast,,18336
-13133,Greene,Georgia,,,,,,,,,,,Northeast,,18324
+13133,Greene,Georgia,,,1,,,,,1,,,Northeast,,18324
 29161,Phelps,Missouri,,,,,,,,,,,Northeast,,44573
 19101,Jefferson,Iowa,,,,,,,,,,,Central,,18295
 29227,Worth,Missouri,,,,,,,,,,,Northeast,,2013
 08089,Otero,Colorado,,,,,,,,,,,,,18278
 05053,Grant,Arkansas,,,,,,,,,,,,,18265
-51153,Prince William,Virginia,,,68,,12,12,5,177,DC Metro,50%,Northeast,Beltway,470335
+51153,Prince William,Virginia,,,68,,12,12,5,177,DC Metro,0%,Northeast,Beltway,470335
 42089,Monroe,Pennsylvania,,,,,,,,,,,Headquarters,,170271
 05043,Drew,Arkansas,,,,,,,,,,,,,18219
 28007,Attala,Mississippi,,,,,,,,,,,Central,,18174
@@ -1912,12 +1912,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01087,Macon,Alabama,,,,,,,,,,,,,18068
 06027,Inyo,California,,,,,,,,,,,,,18039
 26079,Kalkaska,Michigan,,,,,,,,,,,Central,,18038
-51191,Washington,Virginia,,,,2,,,,2,,100%,Central,Big South,53740
+51191,Washington,Virginia,,,,,2,,,2,,100%,Central,Big South,53740
 48499,Wood,Texas,,,,,,,,,,,Headquarters,,45539
 05121,Randolph,Arkansas,,,,,,,,,,,,,17958
 28159,Winston,Mississippi,,,,,,,,,,,Northeast,,17955
 21207,Russell,Kentucky,,,,,,,,,,,Central,,17923
-29510,St. Louis city,Missouri,,,,,,,,,,,West,,300576
+29510,St. Louis city,Missouri,,,,,,,,1,,,West,,300576
 54061,Monongalia,West Virginia,,,,,,,,,,,Headquarters,,105612
 47167,Tipton,Tennessee,,,,,,,,,,,Headquarters,,61599
 36093,Schenectady,New York,,,,,,,,,,,Northeast,,155299
@@ -1941,8 +1941,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 08051,Gunnison,Colorado,,,,,,,,,,,,,17462
 05135,Sharp,Arkansas,,,,,,,,,,,,,17442
 48285,Lavaca,Texas,,,,,,,,,,,West,,20154
-51041,Chesterfield,Virginia,,Y,234,10,15,24,10,562,Central VA,0%,Northeast,Beltway,352802
-25007,Dukes,Massachusetts,,,7,,2,,,10,,,Northeast,GBR,17332
+51041,Chesterfield,Virginia,,Y,17,1,1,,1,132,Central VA,0%,Northeast,Beltway,352802
+25007,Dukes,Massachusetts,,,8,,2,,,1,,,Northeast,GBR,17332
 47071,Hardin,Tennessee,,,,,,,,,,,Headquarters,,25652
 47019,Carter,Tennessee,,,,,,,,,,,Headquarters,,56391
 48139,Ellis,Texas,,,,,,,,1,,,West,,184826
@@ -1976,10 +1976,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 12029,Dixie,Florida,,,,,,,,,,,,,16826
 19047,Crawford,Iowa,,,,,,,,,,,Central,,16820
 23021,Piscataquis,Maine,,,,,,,,,,,Central,,16785
-51019,Bedford,Virginia,,,,,,,,,,100%,Northeast,Beltway,78997
+51019,Bedford,Virginia,,,18,,7,1,,29,,100%,Northeast,Beltway,78997
 51630,Fredericksburg city,Virginia,,,,,,,,,,,Headquarters,,29036
 05067,Jackson,Arkansas,,,,,,,,,,,,,16719
-48407,San Jacinto,Texas,,,,,,,,,,,Northeast,,28859
+48407,San Jacinto,Texas,,,,,,,,5,,,Northeast,,28859
 13017,Ben Hill,Georgia,,,,,,,,,,,Central,,16700
 21203,Rockcastle,Kentucky,,,,,,,,,,,Central,,16695
 54087,Roane,West Virginia,,,,,,,,,,,Headquarters,,13688
@@ -1994,13 +1994,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 05087,Madison,Arkansas,,,,,,,,,,,,,16576
 55107,Rusk,Wisconsin,,,,,,,,,,,Northeast,,14178
 05141,Van Buren,Arkansas,,,,,,,,,,,,,16545
-42101,Philadelphia,Pennsylvania,,Y,,,,,,,Phila Metro,33%,Northeast,Freedom,1584064
+42101,Philadelphia,Pennsylvania,,Y,346,25,49,79,,7731,Phila Metro,33%,Northeast,Freedom,1584064
 30037,Golden Valley,Montana,,,,,,,,,,,Northeast,,821
 53075,Whitman,Washington,,,,,,,,,,,Headquarters,,50104
 17005,Bond,Illinois,,,,,,,,1,,,Headquarters,,16426
 05037,Cross,Arkansas,,,,,,,,,,,,,16419
 05075,Lawrence,Arkansas,,,,,,,,,,,,,16406
-28061,Jasper,Mississippi,,,14,,4,,,19,,,Central,,16383
+28061,Jasper,Mississippi,,,,,,,,,,,Central,,16383
 40113,Osage,Oklahoma,,,,,,,,,,,Northeast,,46963
 18045,Fountain,Indiana,,,,,,,,,,,Central,,16346
 17147,Piatt,Illinois,,,,,,,,,,,Central,,16344
@@ -2009,12 +2009,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 01129,Washington,Alabama,,,,,,,,,,,,,16326
 01057,Fayette,Alabama,,,,,,,,,,,,,16302
 08003,Alamosa,Colorado,,,,,,,,,,,,,16233
-51023,Botetourt,Virginia,,,,,,,7,13,,,Headquarters,,33419
+51023,Botetourt,Virginia,,,,,,,7,,,,Headquarters,,33419
 17191,Wayne,Illinois,,,,,,,,,,,Central,,16215
 19095,Iowa,Iowa,,,,,,,,,,,Central,,16184
 38073,Ransom,North Dakota,,,,,,,,,,,Northeast,,5218
 29013,Bates,Missouri,,,,,,,,,,,Northeast,,16172
-47001,Anderson,Tennessee,,,111,381,15,13,8,655,,100%,Central,Big South,76978
+47001,Anderson,Tennessee,,,36,,4,,8,45,,100%,Central,Big South,76978
 21045,Casey,Kentucky,,,,,,,,,,,Central,,16159
 29133,Mississippi,Missouri,,,,,,,,,,,Northeast,,13180
 55019,Clark,Wisconsin,,,,,,,,,,,Headquarters,,34774
@@ -2050,7 +2050,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 54109,Wyoming,West Virginia,,,,,,,,,,,Headquarters,,20394
 17149,Pike,Illinois,,,,,,,,,,,Central,,15561
 51073,Gloucester,Virginia,,,,,,,,,,,Headquarters,,37348
-28023,Clarke,Mississippi,,,20,,4,1,1,30,,0%,Central,Big South,15541
+28023,Clarke,Mississippi,,,19,,4,1,1,3,,0%,Central,Big South,15541
 17159,Richland,Illinois,,,,,,,,,,,Central,,15513
 18165,Vermillion,Indiana,,,,,,,,,,,Central,,15498
 35055,Taos,New Mexico,,,3,,1,,,4,,0%,West,Mountain West,32723
@@ -2073,12 +2073,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13161,Jeff Davis,Georgia,,,,,,,,,,,Central,,15115
 19129,Mills,Iowa,,,,,,,,,,,Central,,15109
 19145,Page,Iowa,,,,,,,,,,,Central,,15107
-18013,Brown,Indiana,,,49,,12,3,,86,,0%,Central,Heartland,15092
+18013,Brown,Indiana,,,,,11,,,15,,0%,Central,Heartland,15092
 54097,Upshur,West Virginia,,,,,,,,,,,Headquarters,,24176
 47003,Bedford,Tennessee,,,,,,,,,,,Headquarters,,49713
 39063,Hancock,Ohio,,,,,,,,,,,Northeast,,75783
 55003,Ashland,Wisconsin,,,,,,,,,,,Headquarters,,15562
-47149,Rutherford,Tennessee,,,81,,14,,1,115,,0%,Central,Big South,332285
+47149,Rutherford,Tennessee,,,,,14,,1,25,,0%,Central,Big South,332285
 38049,McHenry,North Dakota,,,,,,,,,,,Northeast,,5745
 37111,McDowell,North Carolina,,,,,,,,,,,Northeast,,45756
 51820,Waynesboro city,Virginia,,,,,,,,,,,Headquarters,,22630
@@ -2101,10 +2101,10 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 21221,Trigg,Kentucky,,,,,,,,,,,Central,,14651
 48451,Tom Green,Texas,,,,,,,,,,,West,,119200
 51550,Chesapeake city,Virginia,,,,,,,,1,,,Headquarters,,244835
-51059,Fairfax,Virginia,,,3,,11,21,,217,,100%,Northeast,Beltway,1147532
+51059,Fairfax,Virginia,,,3,,3,22,,216,,100%,Northeast,Beltway,1147532
 21191,Pendleton,Kentucky,,,,,,,,,,,Central,,14590
 21069,Fleming,Kentucky,,,,,,,,,,,Central,,14581
-45013,Beaufort,South Carolina,,,4,,,,,4,,100%,Central,Big South,192122
+45013,Beaufort,South Carolina,,,4,,1,,,4,,100%,Central,Big South,192122
 05021,Clay,Arkansas,,,,,,,,,,,,,14551
 27129,Renville,Minnesota,,,,,,,,,,,Central,,14548
 20011,Bourbon,Kansas,,,,,,,,,,,Central,,14534
@@ -2125,8 +2125,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 28147,Walthall,Mississippi,,,,,,,,,,,Northeast,,14286
 48303,Lubbock,Texas,,,,,,,,,,,West,,310569
 37169,Stokes,North Carolina,,,,,,,,,,,Northeast,,45591
-12065,Jefferson,Florida,,,68,,15,5,6,130,,,,,14246
-47029,Cocke,Tennessee,,,19,3,,,,23,,100%,Central,Big South,36004
+12065,Jefferson,Florida,,,,,,,6,,,,,,14246
+47029,Cocke,Tennessee,,,19,,3,,,23,,100%,Central,Big South,36004
 31145,Red Willow,Nebraska,,,,,,,,,,,Northeast,,10724
 13159,Jasper,Georgia,,,,,,,,,,,Central,,14219
 48501,Yoakum,Texas,,,,,,,,,,,Headquarters,,8713
@@ -2135,7 +2135,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 38075,Renville,North Dakota,,,,,,,,,,,Northeast,,2327
 40031,Comanche,Oklahoma,,,,,,,,,,,Northeast,,120749
 27113,Pennington,Minnesota,,,,,,,,,,,Central,,14119
-12013,Calhoun,Florida,,,2,,,,,2,,100%,Central,Florida,14105
+12013,Calhoun,Florida,,,2,,2,,,2,,100%,Central,Florida,14105
 40089,McCurtain,Oklahoma,,,,,,,,,,,Northeast,,32832
 46023,Charles Mix,South Dakota,,,,,,,,,,,Headquarters,,9292
 45005,Allendale,South Carolina,,,,,,,,,,,Headquarters,,8688
@@ -2146,13 +2146,13 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 26053,Gogebic,Michigan,,,,,,,,,,,Central,,13975
 13251,Screven,Georgia,,,,,,,,,,,Central,,13966
 54003,Berkeley,West Virginia,,,,,3,,,3,,100%,Northeast,Beltway,119171
-37037,Chatham,North Carolina,,,,,,,,1,,,Northeast,,74470
+37037,Chatham,North Carolina,,,,,,,,,,,Northeast,,74470
 48055,Caldwell,Texas,,,,,,,,,,,Headquarters,,43664
 22127,Winn,Louisiana,,,,,,,,,,,Central,,13904
 02130,Ketchikan Gateway Borough,Alaska,,,,,,,,,,,,,13901
 17189,Washington,Illinois,,,,,,,,,,,Central,,13887
 56005,Campbell,Wyoming,,,,,,,,,,,Northeast,,46341
-12043,Glades,Florida,,,6,,4,,,11,,100%,Central,Florida,13811
+12043,Glades,Florida,,,,,,,,1,,100%,Central,Florida,13811
 28135,Tallahatchie,Mississippi,,,,,,,,,,,Northeast,,13809
 01075,Lamar,Alabama,,,,,,,,,,,,,13805
 54027,Hampshire,West Virginia,,,,,,,,,,,Headquarters,,23175
@@ -2162,7 +2162,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 19141,O'Brien,Iowa,,,,,,,,,,,Central,,13753
 30031,Gallatin,Montana,,,,,,,,,,,Northeast,,114434
 53047,Okanogan,Washington,,,,,,,,,,,Headquarters,,42243
-47157,Shelby,Tennessee,,,176,50,23,25,7,367,,33%,Central,Big South,937166
+47157,Shelby,Tennessee,,,171,46,29,25,7,369,,33%,Central,Big South,937166
 54083,Randolph,West Virginia,,,,,,,,,,,Headquarters,,28695
 19005,Allamakee,Iowa,,,,,,,,,,,Central,,13687
 27159,Wadena,Minnesota,,,,,,,,,,,Central,,13682
@@ -2198,7 +2198,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 17025,Clay,Illinois,,,,,,,,,,,Central,,13184
 29131,Miller,Missouri,,,,,,,,,,,Northeast,,25619
 20085,Jackson,Kansas,,,,,,,,,,,Central,,13171
-51510,Alexandria city,Virginia,,,,,,,,,,0%,Northeast,Beltway,159428
+51510,Alexandria city,Virginia,,,,,8,,,12,,0%,Northeast,Beltway,159428
 16043,Fremont,Idaho,,,,,,,,,,,Central,,13099
 48059,Callahan,Texas,,,,,,,,,,,Headquarters,,13943
 39159,Union,Ohio,,,,,,,,,,,Northeast,,58988
@@ -2232,11 +2232,11 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 05049,Fulton,Arkansas,,,,,,,,,,,,,12477
 01119,Sumter,Alabama,,,,,,,,,,,,,12427
 19007,Appanoose,Iowa,,,,,,,,,,,Central,,12426
-47107,McMinn,Tennessee,,,11,,2,,,13,,0%,Central,Big South,53794
+47107,McMinn,Tennessee,,,12,,2,,,13,,0%,Central,Big South,53794
 17087,Johnson,Illinois,,,,,,,,,,,Central,,12417
 13079,Crawford,Georgia,,,,,,,,,,,Central,,12404
 18125,Pike,Indiana,,,,,,,,,,,Central,,12389
-48339,Montgomery,Texas,,,,,,1,,1,,0%,West,Houston,607391
+48339,Montgomery,Texas,,,,,11,1,,22,,0%,West,Houston,607391
 21197,Powell,Kentucky,,,,,,,,,,,Central,,12359
 18131,Pulaski,Indiana,,,,,,,,,,,Central,,12353
 48439,Tarrant,Texas,,,,,,,,,,,West,,2102515
@@ -2250,7 +2250,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 30041,Hill,Montana,,,,,,,,,,,Northeast,,16484
 48293,Limestone,Texas,,,,,,,,,,,West,,23437
 17129,Menard,Illinois,,,,,,,,,,,Central,,12196
-51107,Loudoun,Virginia,,Y,30,,4,,,151,,0%,Northeast,Beltway,413538
+51107,Loudoun,Virginia,,Y,3,,5,,,151,,0%,Northeast,Beltway,413538
 08099,Prowers,Colorado,,,,,,,,,,,,,12172
 21061,Edmonson,Kentucky,,,,,,,,,,,Central,,12150
 17017,Cass,Illinois,,,,,,,,,,,Central,,12147
@@ -2275,19 +2275,19 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13149,Heard,Georgia,,,,,,,,,,,Central,,11923
 29113,Lincoln,Missouri,,,,,,,,,,,Northeast,,59013
 20115,Marion,Kansas,,,,,,,,,,,Central,,11884
-51035,Carroll,Virginia,,,8,1,,,,10,,100%,Central,Big South,29791
+51035,Carroll,Virginia,,,8,,1,,,1,,100%,Central,Big South,29791
 26085,Lake,Michigan,,,,,,,,,,,Central,,11853
 48503,Young,Texas,,,,,,,,,,,Headquarters,,18010
 16073,Owyhee,Idaho,,,,,,,,,,,Central,,11823
 27023,Chippewa,Minnesota,,,,,,,,,,,Central,,11800
 55141,Wood,Wisconsin,,,,,,,,,,,Northeast,,72999
 47083,Houston,Tennessee,,,,,,,,,,,Headquarters,,8201
-18009,Blackford,Indiana,,,40,,5,,1,57,,,Central,,11758
+18009,Blackford,Indiana,,,,,,,1,,,,Central,,11758
 19119,Lyon,Iowa,,,,,,,,,,,Central,,11755
 51700,Newport News city,Virginia,,,,,,,,,,,Headquarters,,179225
-47037,Davidson,Tennessee,,,54,2,16,28,,134,,0%,Central,Big South,694144
+47037,Davidson,Tennessee,,,235,182,3,3,,821,,100%,Central,Big South,694144
 41045,Malheur,Oregon,,,,,,,,,,,Northeast,,30571
-37183,Wake,North Carolina,,,,,,,,,,,Northeast,,1111761
+37183,Wake,North Carolina,,,,,,,,4,,,Northeast,,1111761
 54019,Fayette,West Virginia,,,,,,,,,,,Headquarters,,42406
 37069,Franklin,North Carolina,,,,,,,,4,,,Headquarters,,69685
 29135,Moniteau,Missouri,,,,,,,,,,,Northeast,,16132
@@ -2299,7 +2299,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 16085,Valley,Idaho,,,,,,,,,,,Central,,11392
 05041,Desha,Arkansas,,,,,,,,,,,,,11361
 51077,Grayson,Virginia,,,,,,,,1,,,Northeast,,15550
-47165,Sumner,Tennessee,,,64,,9,1,,87,,0%,Central,Big South,191283
+47165,Sumner,Tennessee,,,66,,1,1,,87,,0%,Central,Big South,191283
 08105,Rio Grande,Colorado,,,,,,,,,,,,,11267
 27121,Pope,Minnesota,,,,,,,,,,,Central,,11249
 19035,Cherokee,Iowa,,,,,,,,,,,Central,,11235
@@ -2323,12 +2323,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 13053,Chattahoochee,Georgia,,,,,,,,,,,Central,,10907
 21187,Owen,Kentucky,,,,,,,,,,,Central,,10901
 27165,Watonwan,Minnesota,,,,,,,,,,,Central,,10897
-37025,Cabarrus,North Carolina,,Y,,,,,,2,,,Headquarters,,216453
+37025,Cabarrus,North Carolina,,Y,,,,,,1,,,Headquarters,,216453
 22123,West Carroll,Louisiana,,,,,,,,,,,Central,,10830
 13043,Candler,Georgia,,,,,,,,,,,Central,,10803
 30081,Ravalli,Montana,,,,,,,,,,,Northeast,,43806
 26097,Mackinac,Michigan,,,,,,,,,,,Central,,10799
-35049,Santa Fe,New Mexico,,,,,,,,,,0%,West,Mountain West,150358
+35049,Santa Fe,New Mexico,,,26,,8,1,,44,,0%,West,Mountain West,150358
 31011,Boone,Nebraska,,,,,,,,,,,Northeast,,5192
 31039,Cuming,Nebraska,,,,,,,,,,,Northeast,,8846
 17035,Cumberland,Illinois,,,,,,,,,,,Central,,10766
@@ -2385,7 +2385,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 19069,Franklin,Iowa,,,,,,,,,,,Central,,10070
 31087,Hitchcock,Nebraska,,,,,,,,,,,Northeast,,2762
 08125,Yuma,Colorado,,,,,,,,,,,,,10019
-49011,Davis,Utah,,,83,8,13,3,1,130,Salt Lake Area,100%,West,Mountain West,355481
+49011,Davis,Utah,,,81,,13,3,1,127,Salt Lake Area,0%,West,Mountain West,355481
 02180,Nome Census Area,Alaska,,,,,,,,,,,,,10004
 29089,Howard,Missouri,,,,,,,,,,,Northeast,,10001
 28015,Carroll,Mississippi,,,,,,,,,,,Central,,9947
@@ -2415,7 +2415,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 28143,Tunica,Mississippi,,,,,,,,,,,Northeast,,9632
 17079,Jasper,Illinois,,,,,,,,,,,Central,,9610
 48365,Panola,Texas,,,,,,,,,,,West,,23194
-32031,Washoe,Nevada,,Y,,,,,,,,,West,,471519
+32031,Washoe,Nevada,,Y,,,,,,1,,,West,,471519
 20013,Brown,Kansas,,,,,,,,,,,Central,,9564
 19091,Humboldt,Iowa,,,,,,,,,,,Central,,9558
 54081,Raleigh,West Virginia,,,,,,,,,,,Headquarters,,73361
@@ -2438,8 +2438,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 27133,Rock,Minnesota,,,,,,,,,,,Central,,9315
 46013,Brown,South Dakota,,,,,,,,,,,Headquarters,,38839
 27151,Swift,Minnesota,,,,,,,,,,,Central,,9266
-21149,McLean,Kentucky,,,6,,,,,6,,,Central,,9207
-48039,Brazoria,Texas,,,,,14,,,17,,0%,West,Houston,374264
+21149,McLean,Kentucky,,,7,,,,,6,,,Central,,9207
+48039,Brazoria,Texas,,,,,14,,,17,,100%,West,Houston,374264
 02261,Valdez-Cordova Census Area,Alaska,,,,,,,,,,,,,9202
 21139,Livingston,Kentucky,,,,,,,,,,,Central,,9194
 13209,Montgomery,Georgia,,,,,,,,,,,Central,,9172
@@ -2485,7 +2485,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48329,Midland,Texas,,,,,,,,,,,West,,176832
 13273,Terrell,Georgia,,,,,,,,,,,Central,,8531
 20205,Wilson,Kansas,,,,,,,,,,,Central,,8525
-54011,Cabell,West Virginia,,,56,,7,2,1,81,,100%,Northeast,Beltway,91945
+54011,Cabell,West Virginia,,,25,,2,1,1,34,,100%,Northeast,Beltway,91945
 02220,Sitka City and Borough,Alaska,,,,,,,,,,,,,8493
 21223,Trimble,Kentucky,,,,,,,,,,,Central,,8471
 48187,Guadalupe,Texas,,,,,,,,,,,Headquarters,,166847
@@ -2555,8 +2555,8 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 19135,Monroe,Iowa,,,,,,,,,,,Central,,7707
 16077,Power,Idaho,,,,,,,,,,,Central,,7681
 48171,Gillespie,Texas,,,,,,,,,,,Headquarters,,26988
-40083,Logan,Oklahoma,,,,,,,,4,,,Northeast,,48011
-53015,Cowlitz,Washington,,,16,,4,,1,28,,0%,West,Portland,110593
+40083,Logan,Oklahoma,,,,,,,,1,,,Northeast,,48011
+53015,Cowlitz,Washington,,,17,,4,,1,28,,0%,West,Portland,110593
 47023,Chester,Tennessee,,,,,,,,,,,Headquarters,,17297
 20043,Doniphan,Kansas,,,,,,,,,,,Central,,7600
 56007,Carbon,Wyoming,,,,,,,,,,,Northeast,,14800
@@ -2593,12 +2593,12 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 51099,King George,Virginia,,,,,,,,,,,Headquarters,,26836
 47091,Johnson,Tennessee,,,,,,,,,,,Headquarters,,17788
 05039,Dallas,Arkansas,,,,,,,,,,,,,7009
-48013,Atascosa,Texas,,y,,1,,,,5,,,Headquarters,,51153
+48013,Atascosa,Texas,,y,,,,,,,,,Headquarters,,51153
 28063,Jefferson,Mississippi,,,,,,,,,,,Central,,6990
 22023,Cameron,Louisiana,,,,,,,,,,,Central,,6973
 31125,Nance,Nebraska,,,,,,,,,,,Northeast,,3519
 54067,Nicholas,West Virginia,,,,,,,,,,,Headquarters,,24496
-51033,Caroline,Virginia,,,38,,8,,4,65,,,Northeast,Beltway,30725
+51033,Caroline,Virginia,,,38,,,,4,56,,,Northeast,Beltway,30725
 19071,Fremont,Iowa,,,,,,,,,,,Central,,6960
 48387,Red River,Texas,,,,,,,,,,,West,,12023
 20197,Wabaunsee,Kansas,,,,,,,,1,,,Headquarters,,6931
@@ -2637,7 +2637,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 51790,Staunton city,Virginia,,,,,,,,,,,Headquarters,,24932
 46109,Roberts,South Dakota,,,,,,,,,,,Headquarters,,10394
 27107,Norman,Minnesota,,,,,,,,,,,Central,,6375
-51069,Frederick,Virginia,,,23,,4,,3,40,,100%,Northeast,Beltway,89313
+51069,Frederick,Virginia,,,23,,4,,3,41,,100%,Northeast,Beltway,89313
 08103,Rio Blanco,Colorado,,,,,,,,,,,,,6324
 05147,Woodruff,Arkansas,,,,,,,,,,,,,6320
 31001,Adams,Nebraska,,,,,,,,,,,Northeast,,31363
@@ -2692,7 +2692,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 31047,Dawson,Nebraska,,,,,,,,,,,Northeast,,23595
 20127,Morris,Kansas,,,,,,,,,,,Central,,5620
 46085,Lyman,South Dakota,,,,,,,,,,,Headquarters,,3781
-48201,Harris,Texas,,,,,49,,7,70,,0%,Central,CD SS/ Div Off,4713325
+48201,Harris,Texas,,,727,61,95,129,7,2246,,15%,Central,CD SS/ Div Off,4713325
 51043,Clarke,Virginia,,,,,,,,,,100%,Northeast,Beltway,14619
 32013,Humboldt,Nevada,,,,,,,,,,,Northeast,,16831
 27087,Mahnomen,Minnesota,,,,,,,,,,,Central,,5527
@@ -2712,7 +2712,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 40003,Alfalfa,Oklahoma,,,,,,,,,,,Northeast,,5702
 13249,Schley,Georgia,,,,,,,,,,,Central,,5257
 13301,Warren,Georgia,,,,,,,,,,,Central,,5254
-20147,Phillips,Kansas,,,,,,,,,,,Northeast,,5234
+20147,Phillips,Kansas,,,,,,,,1,,,Northeast,,5234
 02290,Yukon-Koyukuk Census Area,Alaska,,,,,,,,,,,,,5230
 38069,Pierce,North Dakota,,,,,,,,,,,Northeast,,3975
 31141,Platte,Nebraska,,,,,,,,,,,Northeast,,33470
@@ -2793,7 +2793,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 31101,Keith,Nebraska,,,,,,,,,,,Northeast,,8034
 20183,Smith,Kansas,,,,,,,,,,,Central,,3583
 08009,Baca,Colorado,,,,,,,,,,,,,3581
-35001,Bernalillo,New Mexico,,Y,121,229,23,19,5,521,,0%,West,Mountain West,679121
+35001,Bernalillo,New Mexico,,Y,121,238,23,2,5,52,,0%,West,Mountain West,679121
 31123,Morrill,Nebraska,,,,,,,,,,,Northeast,,4642
 31179,Wayne,Nebraska,,,,,,,,,,,Northeast,,9385
 20141,Osborne,Kansas,,,,,,,,,,,Central,,3421
@@ -2849,7 +2849,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 38015,Burleigh,North Dakota,,,,,,,,,,,Northeast,,95626
 46089,McPherson,South Dakota,,,,,,,,,,,Headquarters,,2379
 48119,Delta,Texas,,,,,,,,,,,Headquarters,,5331
-51087,Henrico,Virginia,,,,,,,,,Central VA,0%,Northeast,Beltway,330818
+51087,Henrico,Virginia,,,13,9,5,25,,41,Central VA,0%,Northeast,Beltway,330818
 40021,Cherokee,Oklahoma,,,,,,,,,,,Northeast,,48657
 30101,Toole,Montana,,,,,,,,,,,Northeast,,4736
 38005,Benson,North Dakota,,,,,,,,,,,Northeast,,6832
@@ -2864,7 +2864,7 @@ fips,County,State,Level 6,NBCU Flag,Techs,CAE,Cable Stores,Business Services,Ad 
 48005,Angelina,Texas,,,,,,,,,,,Headquarters,,86715
 30057,Madison,Montana,,,,,,,,,,,Northeast,,8600
 08017,Cheyenne,Colorado,,,,,,,,,,,,,1831
-41051,Multnomah,Oregon,,,90,11,18,37,,311,North Oregon,0%,West,Portland,812855
+41051,Multnomah,Oregon,,,197,,41,44,,533,North Oregon,0%,West,Portland,812855
 48041,Brazos,Texas,,,,,,,,,,,Headquarters,,229211
 13265,Taliaferro,Georgia,,,,,,,,,,,Central,,1537
 49027,Millard,Utah,,,,,,,,,,,West,,13188
