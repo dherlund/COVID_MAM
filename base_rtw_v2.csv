@@ -14,13 +14,13 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 06071,San Bernardino,California,CA,,79,0,0,0,0,0,,,,,2180085,39937489,0
 48429,Stephens,Texas,TX,,0,0,0,0,0,0,,,West,,9366,29472295,0
 48025,Bee,Texas,TX,,0,0,0,0,0,0,,,Headquarters,,32565,29472295,0
-12011,Broward,Florida,FL,,574,345,1221,67,161,2739,,75%,Central,CD SS/ Div Off,1952778,21992985,2739
+12011,Broward,Florida,FL,,574,345,1221,67,161,2739,,63%,Central,CD SS/ Div Off,1952778,21992985,2739
 06085,Santa Clara,California,CA,,281,196,0,65,29,663,,0%,Central,Cust Sales & Reten,1927852,39937489,663
 26163,Wayne,Michigan,MI,,42,177,17,38,8,415,Detroit Metro,60%,Central,Heartland,1749343,10045029,415
 06001,Alameda,California,CA,,171,248,0,56,48,889,N Cent CA,0%,West,California,1671329,39937489,889
 25017,Middlesex,Massachusetts,MA,,245,236,167,60,33,1105,Boston Metro,,Northeast,GBR,1611699,6976597,954
 42097,Northumberland,Pennsylvania,PA,,0,0,0,0,0,0,,,Headquarters,,90843,12820878,0
-06067,Sacramento,California,CA,,73,268,0,43,34,582,,13%,West,California,1552058,39937489,582
+06067,Sacramento,California,CA,,73,268,0,43,34,582,,0%,West,California,1552058,39937489,582
 12099,Palm Beach,Florida,FL,,65,347,103,65,22,1039,,75%,Central,CD SS/ Div Off,1496770,21992985,1039
 36089,St. Lawrence,New York,NY,,1,0,0,0,0,0,,,Northeast,,107740,20100000,0
 12057,Hillsborough,Florida,FL,,109,0,2,0,1,9,,,Central,Central Care,1471968,21992985,9
@@ -83,13 +83,13 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 06081,San Mateo,California,CA,,109,114,0,24,7,187,,0%,West,California,766573,39937489,187
 06077,San Joaquin,California,CA,,12,98,0,25,6,199,,0%,West,California,762148,39937489,199
 13067,Cobb,Georgia,GA,,50,94,3,34,213,1640,ATL Metro,33%,Central,Big South,760141,10736059,1640
-13089,DeKalb,Georgia,GA,,76,233,4,21,1,605,ATL Metro,0%,Central,Big South,759297,10736059,605
+13089,DeKalb,Georgia,GA,,76,233,4,21,1,605,ATL Metro,25%,Central,Big South,759297,10736059,605
 36053,Madison,New York,NY,,7,0,0,0,0,0,,,Northeast,,70941,20100000,0
 08031,Denver,Colorado,CO,,135,115,0,24,1,716,,0%,West,Mountain West,727211,5845526,716
 12105,Polk,Florida,FL,,42,6,0,2,0,10,,100%,Central,CD SS/ Div Off,724777,21992985,10
 08041,El Paso,Colorado,CO,,35,102,403,48,10,768,,0%,West,Mountain West,720403,5845526,768
 25021,Norfolk,Massachusetts,MA,,183,23,0,31,8,116,,0%,Northeast,GBR,706775,6976597,122
-11001,District of Columbia,District of Columbia,DC,,273,112,0,16,14,352,DC Metro,67%,Northeast,Beltway,705749,720687,352
+11001,District of Columbia,District of Columbia,DC,,273,112,0,16,14,352,DC Metro,33%,Northeast,Beltway,705749,720687,352
 29095,Jackson,Missouri,MO,,35,77,0,12,2,138,,0%,Central,CD SS/ Div Off,703011,6169270,138
 17097,Lake,Illinois,IL,,61,146,0,24,1,242,,100%,Central,CD SS/ Div Off,696535,12659682,242
 47033,Crockett,Tennessee,TN,,0,0,0,0,0,0,,,Headquarters,,14230,6897576,0
@@ -151,7 +151,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 04021,Pinal,Arizona,AZ,,3,0,0,0,0,1,,,Headquarters,,462789,7378494,1
 36063,Niagara,New York,NY,,10,0,0,0,0,0,,,Northeast,,209281,20100000,0
 51183,Sussex,Virginia,VA,,0,0,0,0,0,0,,,Headquarters,,11159,8626207,0
-42129,Westmoreland,Pennsylvania,PA,,10,41,0,10,1,98,,100%,Northeast,Keystone,348899,12820878,98
+42129,Westmoreland,Pennsylvania,PA,,10,41,0,10,1,98,,0%,Northeast,Keystone,348899,12820878,98
 06095,Solano,California,CA,,9,3,0,23,0,32,N Cent CA,0%,West,California,447643,39937489,32
 06083,Santa Barbara,California,CA,,11,29,0,6,3,48,,0%,West,California,446499,39937489,48
 34003,Bergen,New Jersey,NJ,,1087,43,0,0,0,42,N. Jersey,,Northeast,Freedom,932202,8882190,46
@@ -315,7 +315,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 72021,Bayaman,Puerto Rico,PR,,0,0,0,0,0,0,,,Northeast,,0,0,0
 17019,Champaign,Illinois,IL,,5,42,0,11,1,81,,100%,Central,CD SS/ Div Off,209689,12659682,81
 42065,Jefferson,Pennsylvania,PA,,0,0,0,0,0,34,,,Northeast,,43425,12820878,34
-01125,Tuscaloosa,Alabama,AL,,1,34,3,8,0,55,,0%,Central,Big South,209355,4908621,55
+01125,Tuscaloosa,Alabama,AL,,1,34,3,8,0,55,,100%,Central,Big South,209355,4908621,55
 37097,Iredell,North Carolina,NC,,16,0,2,0,0,2,,,Central,Central Care,181806,10611862,2
 36059,Nassau,New York,NY,,640,0,0,0,0,4,,,Northeast,,1356924,20100000,6
 39037,Darke,Ohio,OH,,0,0,0,0,0,0,,,Northeast,,51113,11747694,0
@@ -324,7 +324,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 23031,York,Maine,ME,,7,0,0,0,0,0,,,Central,,207641,1345790,1
 42121,Venango,Pennsylvania,PA,,0,0,0,0,0,0,,,Headquarters,,50668,12820878,0
 39021,Champaign,Ohio,OH,,0,0,0,0,0,0,,,Northeast,,38885,11747694,0
-18039,Elkhart,Indiana,IN,,6,26,0,15,0,45,,50%,Central,Chicago,206341,6745354,45
+18039,Elkhart,Indiana,IN,,6,26,0,15,0,45,,0%,Central,Chicago,206341,6745354,45
 13139,Hall,Georgia,GA,,0,0,0,0,0,0,,,Central,,204441,10736059,0
 53001,Adams,Washington,WA,,0,0,0,0,0,0,,,Headquarters,,19983,7797095,0
 22019,Calcasieu,Louisiana,LA,,1,0,0,0,0,0,,,Central,,203436,4645184,0
@@ -351,7 +351,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 55083,Oconto,Wisconsin,WI,,0,0,0,0,0,0,,,Northeast,,37930,5851754,0
 42015,Bradford,Pennsylvania,PA,,1,0,0,0,0,0,,,Northeast,,60323,12820878,0
 31151,Saline,Nebraska,NE,,0,0,0,0,0,0,,,Northeast,,14224,1952570,0
-28033,DeSoto,Mississippi,MS,,2,0,1,9,0,13,,0%,Central,Big South,184945,2989260,13
+28033,DeSoto,Mississippi,MS,,2,0,1,9,0,13,,100%,Central,Big South,184945,2989260,13
 48135,Ector,Texas,TX,,0,0,0,0,0,0,,,Headquarters,,166223,29472295,0
 12113,Santa Rosa,Florida,FL,,4,0,0,0,0,0,,,Central,,184313,21992985,0
 38013,Burke,North Dakota,ND,,0,0,0,0,0,0,,,Northeast,,2115,761723,0
@@ -377,7 +377,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 26121,Muskegon,Michigan,MI,,5,44,0,13,0,65,,0%,Central,CD SS/ Div Off,173566,10045029,65
 19163,Scott,Iowa,IA,,1,0,0,0,0,0,,,Central,,172943,3179849,0
 55135,Waupaca,Wisconsin,WI,,0,0,0,0,0,0,,,Northeast,,50990,5851754,0
-17113,McLean,Illinois,IL,,3,25,0,11,1,48,,0%,Central,CD SS/ Div Off,171517,12659682,48
+17113,McLean,Illinois,IL,,3,25,0,11,1,48,,100%,Central,CD SS/ Div Off,171517,12659682,48
 44009,Washington,Rhode Island,RI,,6,0,0,0,0,0,,,Headquarters,,125577,1056161,0
 18127,Porter,Indiana,IN,,5,0,0,0,0,1,,,Central,Chicago,170389,6745354,1
 18063,Hendricks,Indiana,IN,,15,0,0,0,0,0,,,Central,,170311,6745354,0
@@ -781,7 +781,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 41031,Jefferson,Oregon,OR,,1,0,0,0,0,0,,,Northeast,,24658,4301089,0
 26155,Shiawassee,Michigan,MI,,0,0,0,0,0,0,,,Central,,68122,10045029,0
 28065,Jefferson Davis,Mississippi,MS,,0,0,0,0,0,0,,,Central,,68098,2989260,0
-28067,Jones,Mississippi,MS,,0,14,0,4,0,19,Central MS,100%,Central,Big South,68098,2989260,19
+28067,Jones,Mississippi,MS,,0,14,0,4,0,19,Central MS,0%,Central,Big South,68098,2989260,19
 40091,McIntosh,Oklahoma,OK,,0,0,0,0,0,0,,,Northeast,,19596,3954821,0
 18011,Boone,Indiana,IN,,28,0,0,0,0,1,,,Central,,67843,6745354,1
 27013,Blue Earth,Minnesota,MN,,0,4,0,0,0,5,,100%,West,Twin Cities,67653,5700671,5
@@ -1598,7 +1598,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 27015,Brown,Minnesota,MN,,0,0,0,0,0,0,,,Central,,25008,5700671,0
 05123,St. Francis,Arkansas,AR,,0,0,0,0,0,0,,,,,24994,3038999,0
 13035,Butts,Georgia,GA,,3,0,0,0,0,0,,,Central,,24936,10736059,0
-51177,Spotsylvania,Virginia,VA,,2,0,0,8,0,9,,100%,Northeast,Beltway,136215,8626207,9
+51177,Spotsylvania,Virginia,VA,,2,0,0,8,0,9,,0%,Northeast,Beltway,136215,8626207,9
 05023,Cleburne,Arkansas,AR,,1,0,0,0,0,1,,,Headquarters,,24919,3038999,1
 36119,Westchester,New York,NY,,648,0,0,0,0,1,,,Northeast,,967506,20100000,1
 32510,Carson City,Nevada,NV,,1,0,0,0,0,0,,,Northeast,,55916,3139658,0
@@ -1831,7 +1831,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 21017,Bourbon,Kentucky,KY,,2,0,0,0,0,0,,,Central,,19788,4499692,0
 46029,Codington,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,28009,903027,0
 37181,Vance,North Carolina,NC,,0,0,0,0,0,0,,,Northeast,,44535,10611862,0
-48157,Fort Bend,Texas,TX,,30,135,0,33,14,293,,33%,West,Houston,811688,29472295,293
+48157,Fort Bend,Texas,TX,,30,135,0,33,14,293,,0%,West,Houston,811688,29472295,293
 27091,Martin,Minnesota,MN,,0,0,0,0,0,0,,,Central,,19683,5700671,0
 05003,Ashley,Arkansas,AR,,0,0,0,0,0,1,,,,,19657,3038999,1
 19065,Fayette,Iowa,IA,,0,0,0,0,0,0,,,Central,,19650,3179849,0
@@ -1994,7 +1994,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 05087,Madison,Arkansas,AR,,4,0,0,0,0,0,,,,,16576,3038999,0
 55107,Rusk,Wisconsin,WI,,0,0,0,0,0,0,,,Northeast,,14178,5851754,0
 05141,Van Buren,Arkansas,AR,,0,0,0,0,0,0,,,,,16545,3038999,0
-42101,Philadelphia,Pennsylvania,PA,,172,346,25,49,79,7731,Phila Metro,33%,Northeast,Freedom,1584064,12820878,7731
+42101,Philadelphia,Pennsylvania,PA,,172,346,25,49,79,7731,Phila Metro,17%,Northeast,Freedom,1584064,12820878,7731
 30037,Golden Valley,Montana,MT,,0,0,0,0,0,0,,,Northeast,,821,1086759,0
 53075,Whitman,Washington,WA,,2,0,0,0,0,0,,,Headquarters,,50104,7797095,0
 17005,Bond,Illinois,IL,,0,0,0,0,0,1,,,Headquarters,,16426,12659682,1
@@ -2162,7 +2162,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 19141,O'Brien,Iowa,IA,,0,0,0,0,0,0,,,Central,,13753,3179849,0
 30031,Gallatin,Montana,MT,,5,0,0,0,0,0,,,Northeast,,114434,1086759,0
 53047,Okanogan,Washington,WA,,0,0,0,0,0,0,,,Headquarters,,42243,7797095,0
-47157,Shelby,Tennessee,TN,,7,171,46,29,25,369,,33%,Central,Big South,937166,6897576,369
+47157,Shelby,Tennessee,TN,,7,171,46,29,25,369,,100%,Central,Big South,937166,6897576,369
 54083,Randolph,West Virginia,WV,,0,0,0,0,0,0,,,Headquarters,,28695,1778070,0
 19005,Allamakee,Iowa,IA,,0,0,0,0,0,0,,,Central,,13687,3179849,0
 27159,Wadena,Minnesota,MN,,0,0,0,0,0,0,,,Central,,13682,5700671,0
@@ -2439,7 +2439,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 46013,Brown,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,38839,903027,0
 27151,Swift,Minnesota,MN,,0,0,0,0,0,0,,,Central,,9266,5700671,0
 21149,McLean,Kentucky,KY,,0,7,0,0,0,6,,,Central,,9207,4499692,6
-48039,Brazoria,Texas,TX,,10,0,0,14,0,17,,100%,West,Houston,374264,29472295,17
+48039,Brazoria,Texas,TX,,10,0,0,14,0,17,,0%,West,Houston,374264,29472295,17
 02261,Valdez-Cordova Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,9202,3038999,0
 21139,Livingston,Kentucky,KY,,0,0,0,0,0,0,,,Central,,9194,4499692,0
 13209,Montgomery,Georgia,GA,,0,0,0,0,0,0,,,Central,,9172,10736059,0
@@ -2692,7 +2692,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 31047,Dawson,Nebraska,NE,,0,0,0,0,0,0,,,Northeast,,23595,1952570,0
 20127,Morris,Kansas,KS,,0,0,0,0,0,0,,,Central,,5620,2910357,0
 46085,Lyman,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,3781,903027,0
-48201,Harris,Texas,TX,,143,727,610,95,129,2246,,15%,Central,CD SS/ Div Off,4713325,29472295,2246
+48201,Harris,Texas,TX,,143,727,610,95,129,2246,,0%,Central,CD SS/ Div Off,4713325,29472295,2246
 51043,Clarke,Virginia,VA,,1,0,0,0,0,0,,100%,Northeast,Beltway,14619,8626207,0
 32013,Humboldt,Nevada,NV,,0,0,0,0,0,0,,,Northeast,,16831,3139658,0
 27087,Mahnomen,Minnesota,MN,,0,0,0,0,0,0,,,Central,,5527,5700671,0
