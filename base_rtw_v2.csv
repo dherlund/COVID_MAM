@@ -2426,7 +2426,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 29079,Grundy,Missouri,,,,,,,,,,,,,9850,6169270,
 27063,Jackson,Minnesota,MN,,0,0,0,0,0,0,,,Central,,9846,5700671,0
 48357,Ochiltree,Texas,TX,,0,0,0,0,0,0,,,West,,9836,29472295,0
-02185,North Slope Borough,Alaska,,,,,,,,,,,,,9832,"710,231",
+02185,North Slope Borough,Alaska,,,,,,,,,,,,,9832,710231,
 56035,Sublette,Wyoming,WY,,0,0,0,0,0,0,,,Northeast,,9831,567025,0
 27149,Stevens,Minnesota,MN,,0,0,0,0,0,0,,,Central,,9805,5700671,0
 13317,Wilkes,Georgia,GA,,0,0,0,0,0,0,,,Central,,9777,10736059,0
@@ -2546,7 +2546,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 12077,Liberty,Florida,FL,,0,0,0,0,0,0,,,,,8354,21992985,0
 29081,Harrison,Missouri,MO,,0,0,0,0,0,0,,,Northeast,,8352,6169270,0
 31107,Knox,Nebraska,NE,,0,0,0,0,0,0,,,Northeast,,8332,1952570,0
-02158,Kusilvak Census Area,Alaska,,,,,,,,,,,,,8314,"710,231",
+02158,Kusilvak Census Area,Alaska,,,,,,,,,,,,,8314,710231,
 21023,Bracken,Kentucky,KY,,0,0,0,0,0,0,,,Central,,8303,4499692,0
 29061,Daviess,Missouri,MO,,0,0,0,0,0,0,,,Northeast,,8278,6169270,0
 18171,Warren,Indiana,IN,,0,0,0,0,0,0,,,Central,,8265,6745354,0
@@ -2610,7 +2610,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 48175,Goliad,Texas,TX,,0,0,0,0,0,0,,,Headquarters,,7658,29472295,0
 40093,Major,Oklahoma,OK,,0,0,0,0,0,0,,,Northeast,,7629,3954821,0
 53019,Ferry,Washington,WA,,0,0,0,0,0,0,,,Headquarters,,7627,7797095,0
-02188,Northwest Arctic Borough,Alaska,,,,,,,,,,,,,7621,"710,231",
+02188,Northwest Arctic Borough,Alaska,,,,,,,,,,,,,7621,710231,
 47027,Clay,Tennessee,TN,,0,0,0,0,0,0,,,Headquarters,,7615,6897576,0
 20043,Doniphan,Kansas,KS,,0,0,0,0,0,0,,,Central,,7600,2910357,0
 56011,Crook,Wyoming,WY,,0,0,0,0,0,0,,,Northeast,,7584,567025,0
@@ -2769,7 +2769,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 48207,Haskell,Texas,,,,,,,,,,,,,5658,29472295,
 27081,Lincoln,Minnesota,MN,,1,0,0,0,0,0,,,Central,,5639,5700671,0
 31051,Dixon,Nebraska,NE,,0,0,0,0,0,0,,,Northeast,,5636,1952570,0
-02016,Aleutians West Census Area,Alaska,,,,,,,,,,,,,5634,"710,231",
+02016,Aleutians West Census Area,Alaska,,,,,,,,,,,,,5634,710231,
 20127,Morris,Kansas,KS,,0,0,0,0,0,0,,,Central,,5620,2910357,0
 46087,McCook,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,5586,903027,0
 08011,Bent,Colorado,,,,,,,,,,,,,5577,5845526,
@@ -2822,7 +2822,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 37095,Hyde,North Carolina,NC,,0,0,0,0,0,0,,,Northeast,,4937,10611862,0
 46091,Marshall,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,4935,903027,0
 20163,Rooks,Kansas,KS,,0,0,0,0,0,0,,,Central,,4920,2910357,0
-02070,Dillingham Census Area,Alaska,,,,,,,,,,,,,4916,"710,231",
+02070,Dillingham Census Area,Alaska,,,,,,,,,,,,,4916,710231,
 08121,Washington,Colorado,CO,,0,0,0,0,0,0,,,,,4908,5845526,0
 29199,Scotland,Missouri,MO,,0,0,0,0,0,0,,,Northeast,,4902,6169270,0
 19159,Ringgold,Iowa,,,,,,,,,,,,,4894,3179849,
@@ -2928,7 +2928,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 30039,Granite,Montana,,,,,,,,,,,,,3379,1086759,
 46007,Bennett,South Dakota,,,,,,,,,,,,,3365,903027,
 46071,Jackson,South Dakota,,,,,,,,,,,,,3344,903027,
-02013,Aleutians East Borough,Alaska,,,,,,,,,,,,,3337,"710,231",
+02013,Aleutians East Borough,Alaska,,,,,,,,,,,,,3337,710231,
 30091,Sheridan,Montana,,,,,,,,,,,,,3309,1086759,
 48129,Donley,Texas,TX,,0,0,0,0,0,0,,,Headquarters,,3278,29472295,0
 02195,Petersburg Borough,Alaska,AK,,0,0,0,0,0,0,,,,,3266,3038999,0
@@ -2978,10 +2978,10 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 13307,Webster,Georgia,GA,,0,0,0,0,0,0,,,Central,,2607,10736059,0
 20129,Morton,Kansas,KS,,0,0,0,0,0,0,,,Central,,2587,2910357,0
 20075,Hamilton,Kansas,KS,,0,0,0,0,0,0,,,Central,,2539,2910357,0
-02100,Haines Borough,Alaska,,,,,,,,,,,,,2530,"710,231",
+02100,Haines Borough,Alaska,,,,,,,,,,,,,2530,710231,
 20049,Elk,Kansas,,,,,,,,,,,,,2530,2910357,
 20179,Sheridan,Kansas,KS,,0,0,0,0,0,0,,,Central,,2521,2910357,0
-02275,Wrangell City and Borough,Alaska,,,,,,,,,,,,,2502,"710,231",
+02275,Wrangell City and Borough,Alaska,,,,,,,,,,,,,2502,710231,
 38041,Hettinger,North Dakota,,,,,,,,,,,,,2499,761723,
 38051,McIntosh,North Dakota,ND,,0,0,0,0,0,0,,,Northeast,,2497,761723,0
 49033,Rich,Utah,,,,,,,,,,,,,2483,3282115,
@@ -3014,7 +3014,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 38013,Burke,North Dakota,ND,,0,0,0,0,0,0,,,Northeast,,2115,761723,0
 48359,Oldham,Texas,TX,,0,0,0,0,0,0,,,West,,2112,29472295,0
 21201,Robertson,Kentucky,,,,,,,,,,,,,2108,4499692,
-02068,Denali Borough,Alaska,,,,,,,,,,,,,2097,"710,231",
+02068,Denali Borough,Alaska,,,,,,,,,,,,,2097,710231,
 46095,Mellette,South Dakota,,,,,,,,,,,,,2061,903027,
 32011,Eureka,Nevada,,,,,,,,,,,,,2029,3139658,
 46073,Jerauld,South Dakota,SD,,0,0,0,0,0,0,,,Headquarters,,2013,903027,0
@@ -3038,7 +3038,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 20083,Hodgeman,Kansas,,,,,,,,,,,,,1794,2910357,
 41055,Sherman,Oregon,OR,,0,0,0,0,0,0,,,Northeast,,1780,4301089,0
 20033,Comanche,Kansas,,,,,,,,,,,,,1700,2910357,
-02164,Lake and Peninsula Borough,Alaska,,,,,,,,,,,,,1592,"710,231",
+02164,Lake and Peninsula Borough,Alaska,,,,,,,,,,,,,1592,710231,
 48045,Briscoe,Texas,TX,,0,0,0,0,0,0,,,Headquarters,,1546,29472295,0
 13265,Taliaferro,Georgia,GA,,0,0,0,0,0,0,,,Central,,1537,10736059,0
 48235,Irion,Texas,,,,,,,,,,,,,1536,29472295,
@@ -3063,7 +3063,7 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 38007,Billings,North Dakota,,,,,,,,,,,,,928,761723,
 46075,Jones,South Dakota,,,,,,,,,,,,,903,903027,
 48393,Roberts,Texas,TX,,0,0,0,0,0,0,,,West,,854,29472295,0
-02060,Bristol Bay Borough,Alaska,,,,,,,,,,,,,836,"710,231",
+02060,Bristol Bay Borough,Alaska,,,,,,,,,,,,,836,710231,
 30037,Golden Valley,Montana,MT,,0,0,0,0,0,0,,,Northeast,,821,1086759,0
 08053,Hinsdale,Colorado,CO,,0,0,0,0,0,0,,,,,820,5845526,0
 48443,Terrell,Texas,,,,,,,,,,,,,776,29472295,
