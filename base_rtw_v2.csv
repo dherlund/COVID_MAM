@@ -75,23 +75,23 @@ fips,County,State,state_code,Level 6,NBCU,Tech Ops EE Count,CAE,Cable Stores,Bus
 02130,Ketchikan Gateway Borough,Alaska,AK,,0,0,0,0,0,0,,,,,13901,3038999,0
 02150,Kodiak Island Borough,Alaska,AK,,0,0,0,0,0,0,,,,,12998,3038999,0
 02180,Nome Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,10004,3038999,0
-02185,North Slope Borough,Alaska,AK,,,,,,,,,,,,9832,710231,
+02185,North Slope Borough,Alaska,AK,,,,,,,,,,,,9832,710231,0
 02261,Valdez-Cordova Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,9202,3038999,0
 02220,Sitka City and Borough,Alaska,AK,,0,0,0,0,0,0,,,,,8493,3038999,0
-02158,Kusilvak Census Area,Alaska,AK,,,,,,,,,,,,8314,710231,
-02188,Northwest Arctic Borough,Alaska,AK,,,,,,,,,,,,7621,710231,
+02158,Kusilvak Census Area,Alaska,AK,,,,,,,,,,,,8314,710231,0
+02188,Northwest Arctic Borough,Alaska,AK,,,,,,,,,,,,7621,710231,0
 02240,Southeast Fairbanks Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,6893,3038999,0
 02198,Prince of Wales-Hyder Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,6203,3038999,0
-02016,Aleutians West Census Area,Alaska,AK,,,,,,,,,,,,5634,710231,
+02016,Aleutians West Census Area,Alaska,AK,,,,,,,,,,,,5634,710231,0
 02290,Yukon-Koyukuk Census Area,Alaska,AK,,0,0,0,0,0,0,,,,,5230,3038999,0
-02070,Dillingham Census Area,Alaska,AK,,,,,,,,,,,,4916,710231,
-02013,Aleutians East Borough,Alaska,AK,,,,,,,,,,,,3337,710231,
+02070,Dillingham Census Area,Alaska,AK,,,,,,,,,,,,4916,710231,0
+02013,Aleutians East Borough,Alaska,AK,,,,,,,,,,,,3337,710231,0
 02195,Petersburg Borough,Alaska,AK,,0,0,0,0,0,0,,,,,3266,3038999,0
-02100,Haines Borough,Alaska,AK,,,,,,,,,,,,2530,710231,
-02275,Wrangell City and Borough,Alaska,AK,,,,,,,,,,,,2502,710231,
-02068,Denali Borough,Alaska,AK,,,,,,,,,,,,2097,710231,
-02164,Lake and Peninsula Borough,Alaska,AK,,,,,,,,,,,,1592,710231,
-02060,Bristol Bay Borough,Alaska,AK,,,,,,,,,,,,836,710231,
+02100,Haines Borough,Alaska,AK,,,,,,,,,,,,2530,710231,0
+02275,Wrangell City and Borough,Alaska,AK,,,,,,,,,,,,2502,710231,0
+02068,Denali Borough,Alaska,AK,,,,,,,,,,,,2097,710231,0
+02164,Lake and Peninsula Borough,Alaska,AK,,,,,,,,,,,,1592,710231,0
+02060,Bristol Bay Borough,Alaska,AK,,,,,,,,,,,,836,710231,0
 04013,Maricopa,Arizona,AZ,,280,0,0,0,3,9,,,West,,4485414,7378494,9
 04019,Pima,Arizona,AZ,,44,87,237,17,2,710,,0%,West,Mountain West,1047279,7378494,710
 04021,Pinal,Arizona,AZ,,3,0,0,0,0,1,,,Headquarters,,462789,7378494,1
